@@ -149,6 +149,7 @@
   text-align: center;
   color: #fff;
   font-family: 'Montserrat', sans-serif;
+  font-size: 30px;
 }
 #content5-5 .mbr-header .mbr-header__subtext {
   text-align: center;
@@ -177,6 +178,8 @@
   font-family: 'Montserrat', sans-serif;
   font-size: 14px;
 }
+
+
 
 
 
@@ -219,7 +222,7 @@
 #msg-box3-16 .mbr-header .mbr-header__text {
   text-align: center;
   color: #ffffff;
-  font-size: 36px;
+  font-size: 30px;
   font-family: 'Montserrat', sans-serif;
 }
 #msg-box3-16 .mbr-header .mbr-header__subtext {
@@ -242,25 +245,30 @@
 #msg-box3-17 .mbr-header .mbr-header__text DIV {
   font-family: 'Montserrat', sans-serif;
 }
-#content5-18 .mbr-header .mbr-header__text {
+#content5-1k .mbr-header .mbr-header__text {
+  text-align: center;
+  color: #fff;
+  font-family: 'Montserrat', sans-serif;
+  font-size: 30px;
+}
+#content5-1k .mbr-header .mbr-header__subtext {
   text-align: center;
   color: #fff;
 }
-#content5-18 .mbr-header .mbr-header__subtext {
-  text-align: center;
+#content5-1k .mbr-article {
   color: #fff;
 }
-#content5-18 .mbr-article {
-  color: #fff;
-}
-#content5-18 .mbr-article P {
+#content5-1k .mbr-article P {
   font-family: 'Montserrat', sans-serif;
   text-align: center;
 }
 #content4-19 P {
   text-align: center;
 }
-#form2-1h .btn {
+#form1-1l .mbr-header__text {
+  font-family: 'Montserrat', sans-serif;
+}
+#form1-1l .btn {
   font-family: 'Montserrat', sans-serif;
 }
 #footer1-1b P {
@@ -313,7 +321,7 @@
 #msg-box3-x .mbr-header .mbr-header__text {
   text-align: center;
   color: #ffffff;
-  font-size: 36px;
+  font-size: 30px;
   font-family: 'Montserrat', sans-serif;
 }
 #msg-box3-x .mbr-header .mbr-header__subtext {

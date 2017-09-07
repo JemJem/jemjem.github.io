@@ -11,7 +11,7 @@
       ]
     },
     "versionFirst": "4.2.4",
-    "uniqCompNum": 56,
+    "uniqCompNum": 58,
     "versionPublish": "4.2.4",
     "favicon": "@PROJECT_PATH@/assets/images/agiletour2017-128x56-2.png",
     "noImageResize": "",
@@ -113,7 +113,7 @@
           },
           "title": "Workshops",
           "text": "inspire actioning the changes you seek",
-          "buttons": "<a data-app-btn=\"true\" class=\"mbr-buttons__btn btn btn-lg animated fadeInUp delay btn-danger\" href=\"tickets.html\" data-toolbar=\"-mbrBtnMove\"><span class=\"mbri-rocket mbr-iconfont mbr-iconfont-btn\"></span>Join the Challenge</a> <a data-app-btn=\"true\" class=\"mbr-buttons__btn btn btn-lg btn-default animated fadeInUp delay\" href=\"workshops.html\" data-toolbar=\"-mbrBtnMove\"><span class=\"mbri-calendar mbr-iconfont mbr-iconfont-btn\"></span>Mon 6 November</a>",
+          "buttons": "<a data-app-btn=\"true\" class=\"mbr-buttons__btn btn btn-lg animated fadeInUp delay btn-danger\" href=\"https://goo.gl/forms/YLWAmA0zXmpBXkgH3\" data-toolbar=\"-mbrBtnMove\" target=\"_blank\"><span class=\"mbri-rocket mbr-iconfont mbr-iconfont-btn\"></span>Join the Challenge</a> <a data-app-btn=\"true\" class=\"mbr-buttons__btn btn btn-lg btn-default animated fadeInUp delay\" href=\"https://goo.gl/forms/YLWAmA0zXmpBXkgH3\" data-toolbar=\"-mbrBtnMove\" target=\"_blank\"><span class=\"mbri-calendar mbr-iconfont mbr-iconfont-btn\"></span>Mon 6 November</a>",
           "_tags": [
             "Theme"
           ],
@@ -200,7 +200,7 @@
             "showMeta": false,
             "showCaption": "noCaption",
             "showText": false,
-            "showButton": false,
+            "showButton": true,
             "paddingTop": 3,
             "paddingBottom": 3,
             "bgImageRadio": false,
@@ -220,7 +220,7 @@
           "title": "<div>KEEP SHARING - KEEP LEARNING!</div><div><br></div><div>90 MINUTES TO RAISE THE BAR.&nbsp;</div><div><br></div><div>NOT JUST YOUR BAR, BUT THE BAR OF THOSE AROUND YOU</div><div><br></div>",
           "meta": "By John Smith posted July 30, 2015",
           "text": "<p>Mobirise has provided for website developers a growing library of modern blocks which can be used either partially or in full for every website developed through the builder.</p>",
-          "button": "<a data-app-btn=\"true\" class=\"mbr-buttons__btn btn btn-lg btn-default\" href=\"https://mobirise.com\" data-toolbar=\"-mbrBtnMove\">SEE ALL WORKSHOPS</a>",
+          "button": "<a data-app-btn=\"true\" class=\"mbr-buttons__btn btn btn-lg btn-default\" href=\"https://goo.gl/forms/YLWAmA0zXmpBXkgH3\" data-toolbar=\"-mbrBtnMove\" target=\"_blank\"><span class=\"mbri-edit mbr-iconfont mbr-iconfont-btn\"></span>SUBMIT A WORKSHOPS</a>",
           "_tags": [
             "Theme"
           ],
@@ -296,7 +296,7 @@
             "overlayColor": "#222",
             "overlayOpacity": 0.5
           },
-          "title": "RUN A WORKSHOP",
+          "title": "WANT TO KNOW MORE?",
           "buttons": "<a data-app-btn=\"true\" type=\"submit\" class=\"mbr-buttons__btn btn btn-lg btn-danger\" data-toolbar=\"-mbrLink,-mbrBtnAdd,-mbrBtnMove\"><span class=\"mbri-left-right mbr-iconfont mbr-iconfont-btn\"></span>CONTACT US</a>",
           "form": {
             "action": "sydney.agiletour@gmail.com",
@@ -606,7 +606,7 @@
           "title": "The Sydney Agile Community is gathering in November&nbsp;<div><span style=\"color: inherit; font-family: inherit;\"><br></span></div><br><div><span style=\"color: inherit; font-family: inherit;\">A full day experience of discovery, failure, success and learning.</span><br></div><div><br></div>",
           "meta": "By John Smith posted July 30, 2015",
           "text": "<p>Mobirise has provided for website developers a growing library of modern blocks which can be used either partially or in full for every website developed through the builder.</p>",
-          "button": "<a data-app-btn=\"true\" class=\"mbr-buttons__btn btn btn-lg btn-default\" href=\"workshops.html\" data-toolbar=\"-mbrBtnMove\"><span class=\"mbri-edit mbr-iconfont mbr-iconfont-btn\"></span>SUBMIT A WORKSHOPS</a>",
+          "button": "<a data-app-btn=\"true\" class=\"mbr-buttons__btn btn btn-lg btn-default\" href=\"https://goo.gl/forms/YLWAmA0zXmpBXkgH3\" data-toolbar=\"-mbrBtnMove\" target=\"_blank\"><span class=\"mbri-edit mbr-iconfont mbr-iconfont-btn\"></span>SUBMIT A WORKSHOPS</a>",
           "_tags": [
             "Theme"
           ],
@@ -620,7 +620,8 @@
               "text-align": "center",
               "color": "#fff",
               "font-family": "'Montserrat', sans-serif",
-              "googleLink": "https://fonts.googleapis.com/css?family=Montserrat:400,700"
+              "googleLink": "https://fonts.googleapis.com/css?family=Montserrat:400,700",
+              "font-size": "30px"
             },
             ".mbr-header .mbr-header__subtext": {
               "text-align": "center",
@@ -1050,7 +1051,7 @@
             ".mbr-header .mbr-header__text": {
               "text-align": "center",
               "color": "#ffffff",
-              "font-size": "36px",
+              "font-size": "30px",
               "font-family": "'Montserrat', sans-serif",
               "googleLink": "https://fonts.googleapis.com/css?family=Montserrat:400,700"
             },
@@ -1149,7 +1150,10 @@
           "_styles": {
             ".mbr-header .mbr-header__text": {
               "text-align": "center",
-              "color": "#fff"
+              "color": "#fff",
+              "font-family": "'Montserrat', sans-serif",
+              "googleLink": "https://fonts.googleapis.com/css?family=Montserrat:400,700",
+              "font-size": "30px"
             },
             ".mbr-header .mbr-header__subtext": {
               "text-align": "center",
@@ -1194,7 +1198,7 @@
           ],
           "meta": "By John Smith posted July 30, 2015",
           "_name": "content5",
-          "_anchor": "content5-18"
+          "_anchor": "content5-1k"
         },
         {
           "_inherit": "features1",
@@ -1364,36 +1368,55 @@
             "bgImage": "images/bg3.jpg",
             "parallax": true,
             "bgColorRadio": true,
-            "bgColor": "#efefef",
+            "bgColor": "#cccccc",
             "overlay": false,
             "overlayColor": "#222",
             "overlayOpacity": 0.5
           },
-          "title": "Get Details",
-          "buttons": "<a data-app-btn=\"true\" type=\"submit\" class=\"mbr-buttons__btn btn btn-lg btn-danger\" data-toolbar=\"-mbrLink,-mbrBtnAdd,-mbrBtnMove,-mbrBtnRemove\"><span class=\"mbri-left-right mbr-iconfont mbr-iconfont-btn\"></span>CONTACT US</a>",
+          "title": "WANT TO KNOW MORE?",
+          "buttons": "<a data-app-btn=\"true\" type=\"submit\" class=\"mbr-buttons__btn btn btn-lg btn-danger\" data-toolbar=\"-mbrLink,-mbrBtnAdd,-mbrBtnMove\"><span class=\"mbri-left-right mbr-iconfont mbr-iconfont-btn\"></span>CONTACT US</a>",
           "form": {
             "action": "sydney.agiletour@gmail.com",
             "alerts": {
               "success": "Thank you!\nWe will be in touch shortly"
             },
             "fields": {
+              "name": {
+                "visible": true,
+                "title": "Name",
+                "customTitle": "Name*"
+              },
               "email": {
+                "visible": true,
                 "title": "Email",
-                "customTitle": "Enter Your Email Address..."
+                "customTitle": "Email*"
+              },
+              "phone": {
+                "visible": true,
+                "title": "Phone",
+                "customTitle": "Phone"
+              },
+              "message": {
+                "title": "Message",
+                "customTitle": "What's on your mind?"
               }
             }
           },
           "_tags": [
             "Theme"
           ],
-          "_name": "form2",
-          "_anchor": "form2-1h",
+          "_name": "form1",
           "_styles": {
+            ".mbr-header__text": {
+              "font-family": "'Montserrat', sans-serif",
+              "googleLink": "https://fonts.googleapis.com/css?family=Montserrat:400,700"
+            },
             ".btn": {
               "font-family": "'Montserrat', sans-serif",
               "googleLink": "https://fonts.googleapis.com/css?family=Montserrat:400,700"
             }
-          }
+          },
+          "_anchor": "form1-1l"
         },
         {
           "_params": {
@@ -1582,7 +1605,7 @@
             ".mbr-header .mbr-header__text": {
               "text-align": "center",
               "color": "#ffffff",
-              "font-size": "36px",
+              "font-size": "30px",
               "font-family": "'Montserrat', sans-serif",
               "googleLink": "https://fonts.googleapis.com/css?family=Montserrat:400,700"
             },
@@ -1695,25 +1718,25 @@
           "price1": "50",
           "period1": "limited",
           "list1": "<ul><li><b>You came in 2016</b></li><li><b>You have your ticket</b></li><li><b>Ready to Challenge</b></li></ul>",
-          "button1": "<a data-app-btn=\"true\" href=\"https://mobirise.com\" class=\"mbr-buttons__btn btn btn-wrap btn-xs-lg btn-default\" data-toolbar=\"-mbrBtnMove\"><span class=\"mbri-magic-stick mbr-iconfont mbr-iconfont-btn\"></span>SOLD OUT</a>",
+          "button1": "<a data-app-btn=\"true\" href=\"https://agiletoursyd17.eventbrite.com/?aff=LastTour\" class=\"mbr-buttons__btn btn btn-wrap btn-xs-lg btn-default\" data-toolbar=\"-mbrBtnMove\" target=\"_blank\"><span class=\"mbri-magic-stick mbr-iconfont mbr-iconfont-btn\"></span>SOLD OUT</a>",
           "title2": "SPONSOR",
           "currency2": "$",
           "price2": "500",
           "period2": "Limited to 5 sponsors",
           "list2": "<ul><li><b>Support the Community</b></li><li><b>Contribute with a workshop</b></li><li><b>Be in the community</b></li></ul>",
-          "button2": "<a data-app-btn=\"true\" href=\"https://mobirise.com\" class=\"mbr-buttons__btn btn btn-wrap btn-xs-lg btn-default\" data-toolbar=\"-mbrBtnMove\"><span class=\"mbri-protect mbr-iconfont mbr-iconfont-btn\"></span>SUPPORT NOW</a> ",
+          "button2": "<a data-app-btn=\"true\" href=\"https://agiletoursyd17.eventbrite.com/?aff=Sponsors\" class=\"mbr-buttons__btn btn btn-wrap btn-xs-lg btn-default\" data-toolbar=\"-mbrBtnMove\" target=\"_blank\"><span class=\"mbri-protect mbr-iconfont mbr-iconfont-btn\"></span>SUPPORT NOW</a> ",
           "title3": "EARLY BIRD",
           "currency3": "$",
           "price3": "80",
           "period3": "until 30 Sept",
           "list3": "<ul><li><b>Commit Now</b></li><li><b>Experience</b></li><li><b>Learn</b></li></ul>",
-          "button3": "<a data-app-btn=\"true\" href=\"https://mobirise.com\" class=\"mbr-buttons__btn btn btn-wrap btn-xs-lg btn-default\" data-toolbar=\"-mbrBtnMove\"><span class=\"mbri-speed mbr-iconfont mbr-iconfont-btn\"></span>COMMIT NOW</a>",
+          "button3": "<a data-app-btn=\"true\" href=\"https://agiletoursyd17.eventbrite.com/?aff=Earlybird\" class=\"mbr-buttons__btn btn btn-wrap btn-xs-lg btn-default\" data-toolbar=\"-mbrBtnMove\" target=\"_blank\"><span class=\"mbri-speed mbr-iconfont mbr-iconfont-btn\"></span>COMMIT NOW</a>",
           "title4": "LAST MINUTE",
           "currency4": "$",
           "price4": "100",
           "period4": "from 1st Oct",
           "list4": "<ul><li><b>Join the Challenge</b></li><li><b>Commit for the day</b></li><li><b>Learn</b></li></ul>",
-          "button4": "<a data-app-btn=\"true\" href=\"https://mobirise.com\" class=\"mbr-buttons__btn btn btn-wrap btn-xs-lg btn-default\" data-toolbar=\"-mbrBtnMove\"><span class=\"mbri-features mbr-iconfont mbr-iconfont-btn\"></span>JOIN</a>",
+          "button4": "<a data-app-btn=\"true\" href=\"https://agiletoursyd17.eventbrite.com/?aff=Lastminute\" class=\"mbr-buttons__btn btn btn-wrap btn-xs-lg btn-default\" data-toolbar=\"-mbrBtnMove\" target=\"_blank\"><span class=\"mbri-features mbr-iconfont mbr-iconfont-btn\"></span>JOIN</a>",
           "title5": "EXTENDED",
           "currency5": "$",
           "price5": "0",
