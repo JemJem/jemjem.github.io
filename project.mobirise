@@ -1,7 +1,7 @@
 {
   "settings": {
     "name": "Agile Tour Syd",
-    "currentPage": "home.html",
+    "currentPage": "tickets.html",
     "theme": {
       "name": "default",
       "title": "Mobirise",
@@ -1910,7 +1910,7 @@
             "overlayColor": "#222",
             "overlayOpacity": 0.5
           },
-          "title1": "FORM LAST TOUR",
+          "title1": "2016 Practitioner",
           "currency1": "$",
           "price1": "50",
           "period1": "limited",
