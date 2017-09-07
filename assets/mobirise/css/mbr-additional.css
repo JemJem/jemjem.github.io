@@ -11,6 +11,9 @@
 
 
 
+
+
+
 #menu-m .mbr-brand__name {
   font-size: 16px;
 }
@@ -74,6 +77,15 @@
   text-align: center;
   font-family: 'Montserrat', sans-serif;
 }
+#features1-1q P {
+  font-family: 'Montserrat', sans-serif;
+}
+#features1-1q .mbr-section__col .mbr-header__text {
+  font-family: 'Montserrat', sans-serif;
+}
+#features1-1q .mbr-section-title .mbr-header__text {
+  font-family: 'Montserrat', sans-serif;
+}
 #form1-1e .mbr-header__text {
   font-family: 'Montserrat', sans-serif;
 }
@@ -87,6 +99,7 @@
   font-family: 'Montserrat', sans-serif;
   font-size: 14px;
 }
+
 
 
 
@@ -162,13 +175,13 @@
   font-family: 'Montserrat', sans-serif;
   text-align: center;
 }
-#content4-1j P {
-  text-align: center;
-}
-#contacts2-e P {
+#features1-1r P {
   font-family: 'Montserrat', sans-serif;
 }
-#contacts2-e UL {
+#features1-1r .mbr-section__col .mbr-header__text {
+  font-family: 'Montserrat', sans-serif;
+}
+#features1-1r .mbr-section-title .mbr-header__text {
   font-family: 'Montserrat', sans-serif;
 }
 #footer1-a P {
@@ -178,6 +191,9 @@
   font-family: 'Montserrat', sans-serif;
   font-size: 14px;
 }
+
+
+
 
 
 
@@ -262,8 +278,14 @@
   font-family: 'Montserrat', sans-serif;
   text-align: center;
 }
-#content4-19 P {
-  text-align: center;
+#features1-1n P {
+  font-family: 'Montserrat', sans-serif;
+}
+#features1-1n .mbr-section__col .mbr-header__text {
+  font-family: 'Montserrat', sans-serif;
+}
+#features1-1n .mbr-section-title .mbr-header__text {
+  font-family: 'Montserrat', sans-serif;
 }
 #form1-1l .mbr-header__text {
   font-family: 'Montserrat', sans-serif;
@@ -346,13 +368,11 @@
 #pricing-table1-1g .btn {
   font-family: 'Montserrat', sans-serif;
 }
-#content4-1i P {
+#content4-1o P {
   text-align: center;
-}
-#contacts2-11 P {
   font-family: 'Montserrat', sans-serif;
 }
-#contacts2-11 UL {
+#content4-1o .mbr-section__col .mbr-header__text {
   font-family: 'Montserrat', sans-serif;
 }
 #footer1-12 P {
