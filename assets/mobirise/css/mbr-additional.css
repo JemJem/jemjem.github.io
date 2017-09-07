@@ -9,169 +9,6 @@
 
 
 
-#menu-0 .mbr-brand__name {
-  font-size: 16px;
-}
-#menu-0.mbr-navbar--stuck .mbr-navbar__section {
-  background: #3c3c3c;
-}
-#menu-0 .mbr-navbar__hamburger {
-  color: #ffffff;
-}
-#menu-0 .mbr-brand__name a {
-  font-family: 'Montserrat', sans-serif;
-  font-size: 18px;
-}
-#menu-0 .mbr-navbar__items a {
-  font-family: 'Montserrat', sans-serif;
-}
-#header4-1 H1 {
-  font-family: 'Montserrat', sans-serif;
-  color: #ffffff;
-}
-#header4-1 P {
-  color: #ffffff;
-  font-family: 'Montserrat', sans-serif;
-}
-#header4-1 .btn {
-  font-family: 'Montserrat', sans-serif;
-}
-#msg-box3-f .mbr-header .mbr-header__text {
-  text-align: center;
-  color: #ffffff;
-  font-size: 36px;
-  font-family: 'Montserrat', sans-serif;
-}
-#msg-box3-f .mbr-header .mbr-header__subtext {
-  text-align: center;
-  color: #c1c1c1;
-}
-#msg-box3-f .mbr-article P {
-  text-align: center;
-}
-#msg-box3-c .mbr-header .mbr-header__text {
-  text-align: center;
-}
-#msg-box3-c .mbr-header .mbr-header__subtext {
-  text-align: center;
-}
-#content5-5 .mbr-header .mbr-header__text {
-  text-align: center;
-  color: #fff;
-}
-#content5-5 .mbr-header .mbr-header__subtext {
-  text-align: center;
-  color: #fff;
-}
-#content5-5 .mbr-article {
-  color: #fff;
-}
-#content5-5 .mbr-article P {
-  font-family: 'Montserrat', sans-serif;
-}
-#content4-4 P {
-  text-align: center;
-}
-#contacts2-e P {
-  font-family: 'Montserrat', sans-serif;
-}
-#contacts2-e UL {
-  font-family: 'Montserrat', sans-serif;
-}
-#image2-d SMALL {
-  font-family: 'Montserrat', sans-serif;
-  font-size: 14px;
-}
-
-
-
-
-
-
-
-
-
-
-#menu-m .mbr-brand__name {
-  font-size: 16px;
-}
-#menu-m.mbr-navbar--stuck .mbr-navbar__section {
-  background: #3c3c3c;
-}
-#menu-m .mbr-navbar__hamburger {
-  color: #ffffff;
-}
-#menu-m .mbr-brand__name a {
-  font-family: 'Montserrat', sans-serif;
-  font-size: 18px;
-}
-#menu-m .mbr-navbar__items a {
-  font-family: 'Montserrat', sans-serif;
-}
-#header4-n H1 {
-  font-family: 'Montserrat', sans-serif;
-  color: #ffffff;
-}
-#header4-n P {
-  color: #ffffff;
-  font-family: 'Montserrat', sans-serif;
-}
-#header4-n .btn {
-  font-family: 'Montserrat', sans-serif;
-}
-#msg-box3-o .mbr-header .mbr-header__text {
-  text-align: center;
-  color: #ffffff;
-  font-size: 36px;
-  font-family: 'Montserrat', sans-serif;
-}
-#msg-box3-o .mbr-header .mbr-header__subtext {
-  text-align: center;
-  color: #c1c1c1;
-}
-#msg-box3-o .mbr-article P {
-  text-align: center;
-}
-#msg-box3-p .mbr-header .mbr-header__text {
-  text-align: center;
-}
-#msg-box3-p .mbr-header .mbr-header__subtext {
-  text-align: center;
-}
-#content5-q .mbr-header .mbr-header__text {
-  text-align: center;
-  color: #fff;
-}
-#content5-q .mbr-header .mbr-header__subtext {
-  text-align: center;
-  color: #fff;
-}
-#content5-q .mbr-article {
-  color: #fff;
-}
-#content5-q .mbr-article P {
-  font-family: 'Montserrat', sans-serif;
-}
-#content4-r P {
-  text-align: center;
-}
-#contacts2-s P {
-  font-family: 'Montserrat', sans-serif;
-}
-#contacts2-s UL {
-  font-family: 'Montserrat', sans-serif;
-}
-#image2-u SMALL {
-  font-family: 'Montserrat', sans-serif;
-  font-size: 14px;
-}
-
-
-
-
-
-
-
 
 
 
@@ -221,22 +58,17 @@
 #msg-box3-y .mbr-header .mbr-header__subtext {
   text-align: center;
 }
-#content5-z .mbr-header .mbr-header__text {
-  text-align: center;
-  color: #fff;
-}
-#content5-z .mbr-header .mbr-header__subtext {
-  text-align: center;
-  color: #fff;
-}
-#content5-z .mbr-article {
-  color: #fff;
-}
-#content5-z .mbr-article P {
-  font-family: 'Montserrat', sans-serif;
-}
 #content4-10 P {
   text-align: center;
+}
+#pricing-table1-1g SPAN {
+  font-family: 'Montserrat', sans-serif;
+}
+#pricing-table1-1g H3 {
+  font-family: 'Montserrat', sans-serif;
+}
+#pricing-table1-1g .btn {
+  font-family: 'Montserrat', sans-serif;
 }
 #contacts2-11 P {
   font-family: 'Montserrat', sans-serif;
@@ -244,10 +76,14 @@
 #contacts2-11 UL {
   font-family: 'Montserrat', sans-serif;
 }
+#footer1-12 P {
+  font-family: 'Montserrat', sans-serif;
+}
 #image2-13 SMALL {
   font-family: 'Montserrat', sans-serif;
   font-size: 14px;
 }
+
 
 
 
@@ -327,7 +163,185 @@
 #contacts2-1a UL {
   font-family: 'Montserrat', sans-serif;
 }
+#footer1-1b P {
+  font-family: 'Montserrat', sans-serif;
+}
 #image2-1c SMALL {
+  font-family: 'Montserrat', sans-serif;
+  font-size: 14px;
+}
+
+
+
+
+
+
+
+
+
+
+
+
+#menu-m .mbr-brand__name {
+  font-size: 16px;
+}
+#menu-m.mbr-navbar--stuck .mbr-navbar__section {
+  background: #3c3c3c;
+}
+#menu-m .mbr-navbar__hamburger {
+  color: #ffffff;
+}
+#menu-m .mbr-brand__name a {
+  font-family: 'Montserrat', sans-serif;
+  font-size: 18px;
+}
+#menu-m .mbr-navbar__items a {
+  font-family: 'Montserrat', sans-serif;
+}
+#header4-n H1 {
+  font-family: 'Montserrat', sans-serif;
+  color: #ffffff;
+}
+#header4-n P {
+  color: #ffffff;
+  font-family: 'Montserrat', sans-serif;
+}
+#header4-n .btn {
+  font-family: 'Montserrat', sans-serif;
+}
+#msg-box3-o .mbr-header .mbr-header__text {
+  text-align: center;
+  color: #ffffff;
+  font-size: 30px;
+  font-family: 'Montserrat', sans-serif;
+}
+#msg-box3-o .mbr-header .mbr-header__subtext {
+  text-align: center;
+  color: #c1c1c1;
+}
+#msg-box3-o .mbr-article P {
+  text-align: center;
+}
+#msg-box3-p .mbr-header .mbr-header__text {
+  text-align: center;
+}
+#msg-box3-p .mbr-header .mbr-header__subtext {
+  text-align: center;
+}
+#content5-1d .mbr-header .mbr-header__text {
+  text-align: center;
+  color: #fff;
+  font-family: 'Montserrat', sans-serif;
+  font-size: 30px;
+}
+#content5-1d .mbr-header .mbr-header__subtext {
+  text-align: center;
+  color: #fff;
+}
+#content5-1d .mbr-article {
+  color: #fff;
+}
+#content5-1d .mbr-article P {
+  text-align: center;
+  font-family: 'Montserrat', sans-serif;
+}
+#form1-1e .mbr-header__text {
+  font-family: 'Montserrat', sans-serif;
+}
+#form1-1e .btn {
+  font-family: 'Montserrat', sans-serif;
+}
+#footer1-t P {
+  font-family: 'Montserrat', sans-serif;
+}
+#image2-u SMALL {
+  font-family: 'Montserrat', sans-serif;
+  font-size: 14px;
+}
+
+
+
+
+
+
+
+
+
+
+
+#menu-0 .mbr-brand__name {
+  font-size: 16px;
+}
+#menu-0.mbr-navbar--stuck .mbr-navbar__section {
+  background: #3c3c3c;
+}
+#menu-0 .mbr-navbar__hamburger {
+  color: #ffffff;
+}
+#menu-0 .mbr-brand__name a {
+  font-family: 'Montserrat', sans-serif;
+  font-size: 18px;
+}
+#menu-0 .mbr-navbar__items a {
+  font-family: 'Montserrat', sans-serif;
+}
+#header4-1 H1 {
+  font-family: 'Montserrat', sans-serif;
+  color: #ffffff;
+}
+#header4-1 P {
+  color: #ffffff;
+  font-family: 'Montserrat', sans-serif;
+}
+#header4-1 .btn {
+  font-family: 'Montserrat', sans-serif;
+}
+#msg-box3-f .mbr-header .mbr-header__text {
+  text-align: center;
+  color: #ffffff;
+  font-size: 30px;
+  font-family: 'Montserrat', sans-serif;
+}
+#msg-box3-f .mbr-header .mbr-header__subtext {
+  text-align: center;
+  color: #c1c1c1;
+}
+#msg-box3-f .mbr-article P {
+  text-align: center;
+}
+#msg-box3-c .mbr-header .mbr-header__text {
+  text-align: center;
+}
+#msg-box3-c .mbr-header .mbr-header__subtext {
+  text-align: center;
+}
+#content5-5 .mbr-header .mbr-header__text {
+  text-align: center;
+  color: #fff;
+}
+#content5-5 .mbr-header .mbr-header__subtext {
+  text-align: center;
+  color: #fff;
+}
+#content5-5 .mbr-article {
+  color: #fff;
+}
+#content5-5 .mbr-article P {
+  font-family: 'Montserrat', sans-serif;
+}
+#content4-4 P {
+  text-align: center;
+}
+#contacts2-e P {
+  font-family: 'Montserrat', sans-serif;
+}
+#contacts2-e UL {
+  font-family: 'Montserrat', sans-serif;
+}
+#footer1-a P {
+  font-family: 'Montserrat', sans-serif;
+}
+#image2-d SMALL {
   font-family: 'Montserrat', sans-serif;
   font-size: 14px;
 }
