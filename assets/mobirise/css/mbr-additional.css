@@ -1,3 +1,8 @@
+@import url(https://fonts.googleapis.com/css?family=Montserrat:400,700);
+
+
+
+
 #menu-0 .mbr-brand__name {
   font-size: 16px;
 }
@@ -6,6 +11,23 @@
 }
 #menu-0 .mbr-navbar__hamburger {
   color: #ffffff;
+}
+#header4-1 H1 {
+  font-family: 'Montserrat', sans-serif;
+  color: #ffffff;
+}
+#header4-1 P {
+  color: #ffffff;
+  font-family: 'Montserrat', sans-serif;
+}
+#header4-1 .btn {
+  font-family: 'Montserrat', sans-serif;
+}
+#msg-box3-c .mbr-header .mbr-header__text {
+  text-align: center;
+}
+#msg-box3-c .mbr-header .mbr-header__subtext {
+  text-align: center;
 }
 #content5-5 .mbr-header .mbr-header__text {
   text-align: center;
@@ -18,9 +40,9 @@
 #content5-5 .mbr-article {
   color: #fff;
 }
-#msg-box1-7 .mbr-header .mbr-header__text {
-  color: #fff;
+#content5-5 .mbr-article P {
+  font-family: 'Montserrat', sans-serif;
 }
-#msg-box1-7 .mbr-article {
-  color: #fff;
+#content4-4 P {
+  text-align: center;
 }
