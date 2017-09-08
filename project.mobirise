@@ -77,7 +77,7 @@
               "linkInNewWindow": false,
               "name": "users",
               "family": "MobiriseIcons",
-              "link": "home.html",
+              "link": "index.html",
               "size": "",
               "newWindow": false,
               "active": true
@@ -642,7 +642,7 @@
               "linkInNewWindow": false,
               "name": "users",
               "family": "MobiriseIcons",
-              "link": "home.html",
+              "link": "index.html",
               "size": "",
               "newWindow": false,
               "active": true
@@ -1216,7 +1216,7 @@
               "linkInNewWindow": false,
               "name": "users",
               "family": "MobiriseIcons",
-              "link": "home.html",
+              "link": "index.html",
               "size": "",
               "newWindow": false,
               "active": true
@@ -1741,7 +1741,7 @@
               "linkInNewWindow": false,
               "name": "users",
               "family": "MobiriseIcons",
-              "link": "home.html",
+              "link": "index.html",
               "size": "",
               "newWindow": false,
               "active": true
