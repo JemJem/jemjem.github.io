@@ -13,7 +13,6 @@
 
 
 
-
 #menu-m .mbr-brand__name {
   font-size: 16px;
 }
@@ -92,14 +91,13 @@
 #form1-1e .btn {
   font-family: 'Montserrat', sans-serif;
 }
-#footer1-t P {
-  font-family: 'Montserrat', sans-serif;
-}
 #image2-u SMALL {
   font-family: 'Montserrat', sans-serif;
   font-size: 14px;
 }
-
+#social-buttons1-1u .mbr-header__text {
+  color: #c1c1c1;
+}
 
 
 
@@ -201,14 +199,13 @@
 #form1-1l .btn {
   font-family: 'Montserrat', sans-serif;
 }
-#footer1-1b P {
-  font-family: 'Montserrat', sans-serif;
-}
 #image2-1c SMALL {
   font-family: 'Montserrat', sans-serif;
   font-size: 14px;
 }
-
+#social-buttons1-1w .mbr-header__text {
+  color: #c1c1c1;
+}
 
 
 
@@ -283,14 +280,13 @@
 #content4-1o .mbr-section__col .mbr-header__text {
   font-family: 'Montserrat', sans-serif;
 }
-#footer1-12 P {
-  font-family: 'Montserrat', sans-serif;
-}
 #image2-13 SMALL {
   font-family: 'Montserrat', sans-serif;
   font-size: 14px;
 }
-
+#social-buttons1-1v .mbr-header__text {
+  color: #c1c1c1;
+}
 
 
 
@@ -375,10 +371,10 @@
 #features1-1r .mbr-section-title .mbr-header__text {
   font-family: 'Montserrat', sans-serif;
 }
-#footer1-a P {
-  font-family: 'Montserrat', sans-serif;
-}
 #image2-d SMALL {
   font-family: 'Montserrat', sans-serif;
   font-size: 14px;
+}
+#social-buttons1-1s .mbr-header__text {
+  color: #c1c1c1;
 }
