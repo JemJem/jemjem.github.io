@@ -264,6 +264,17 @@
 #msg-box3-y .mbr-header .mbr-header__subtext {
   text-align: center;
 }
+#content5-1x .mbr-header .mbr-header__text {
+  text-align: center;
+  color: #fff;
+}
+#content5-1x .mbr-header .mbr-header__subtext {
+  text-align: center;
+  color: #fff;
+}
+#content5-1x .mbr-article {
+  color: #fff;
+}
 #pricing-table1-1g SPAN {
   font-family: 'Montserrat', sans-serif;
 }
