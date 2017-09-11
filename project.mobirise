@@ -1,7 +1,7 @@
 {
   "settings": {
     "name": "Agile Tour Syd",
-    "currentPage": "tickets.html",
+    "currentPage": "sponsors.html",
     "theme": {
       "name": "default",
       "title": "Mobirise",
@@ -99,7 +99,7 @@
             "showArrow": true,
             "contentAlign": "center",
             "bgImageRadio": true,
-            "bgImage": "@PROJECT_PATH@/assets/images/unnamed-1176x784.jpg",
+            "bgImage": "@PROJECT_PATH@/assets/images/tablework-1232x820.jpg",
             "parallax": true,
             "bgColorRadio": false,
             "bgColor": "#4c6972",
@@ -668,7 +668,7 @@
             "showArrow": true,
             "contentAlign": "center",
             "bgImageRadio": true,
-            "bgImage": "@PROJECT_PATH@/assets/images/unnamed-1176x784.jpg",
+            "bgImage": "@PROJECT_PATH@/assets/images/do-you-learn-1513x1009.jpg",
             "parallax": true,
             "bgColorRadio": false,
             "bgColor": "#4c6972",
@@ -1246,7 +1246,7 @@
             "showArrow": true,
             "contentAlign": "center",
             "bgImageRadio": true,
-            "bgImage": "@PROJECT_PATH@/assets/images/unnamed-1176x784.jpg",
+            "bgImage": "@PROJECT_PATH@/assets/images/activity-2000x1333.jpg",
             "parallax": true,
             "bgColorRadio": false,
             "bgColor": "#4c6972",
