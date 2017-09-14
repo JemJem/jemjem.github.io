@@ -1,7 +1,7 @@
 {
   "settings": {
     "name": "Agile Tour Syd",
-    "currentPage": "index.html",
+    "currentPage": "tickets.html",
     "theme": {
       "name": "default",
       "title": "Mobirise",
@@ -11,7 +11,7 @@
       ]
     },
     "versionFirst": "4.2.4",
-    "uniqCompNum": 70,
+    "uniqCompNum": 71,
     "versionPublish": "4.2.4",
     "favicon": "@PROJECT_PATH@/assets/images/mbr-favicon-74x74-1.png",
     "noImageResize": "",
@@ -132,7 +132,8 @@
             },
             ".btn": {
               "font-family": "'Montserrat', sans-serif",
-              "googleLink": "https://fonts.googleapis.com/css?family=Montserrat:400,700"
+              "googleLink": "https://fonts.googleapis.com/css?family=Montserrat:400,700",
+              "font-size": "16px"
             }
           },
           "_anchor": "header4-n"
@@ -193,6 +194,9 @@
             },
             ".mbr-header .mbr-header__subtext": {
               "text-align": "center"
+            },
+            ".btn": {
+              "font-size": "16px"
             }
           },
           "_params": {
@@ -270,7 +274,7 @@
             "darkBackground": true,
             "overlay": true,
             "overlayColor": "#3c3c3c",
-            "overlayOpacity": 0.2
+            "overlayOpacity": "0.6"
           },
           "title": "Workshop is about work!",
           "text": "<p>the work of showing up, the work of doing, the work of being present</p><p>The idea of doing this work in a shop,</p><p>in a place for making, where work is shipped— changes everything.</p><p><br></p><p>Mostly, it changes you, and who you share it with</p><p>It moves you forward and helps you see what you’re actually capable of.</p>",
@@ -307,7 +311,7 @@
             "overlayOpacity": 0.5
           },
           "headerAlign": "left",
-          "header": "BASIC PRINCIPLES",
+          "header": "<i>BASIC PRINCIPLES</i>",
           "subheader": "By John Smith posted July 30, 2015",
           "media1": {
             "image": {
@@ -701,7 +705,8 @@
             },
             ".btn": {
               "font-family": "'Montserrat', sans-serif",
-              "googleLink": "https://fonts.googleapis.com/css?family=Montserrat:400,700"
+              "googleLink": "https://fonts.googleapis.com/css?family=Montserrat:400,700",
+              "font-size": "16px"
             }
           },
           "_anchor": "header4-15"
@@ -771,6 +776,9 @@
             ".mbr-header .mbr-header__text DIV": {
               "font-family": "'Montserrat', sans-serif",
               "googleLink": "https://fonts.googleapis.com/css?family=Montserrat:400,700"
+            },
+            ".btn": {
+              "font-size": "16px"
             }
           },
           "_params": {
@@ -848,7 +856,7 @@
             "darkBackground": true,
             "overlay": true,
             "overlayColor": "#28324e",
-            "overlayOpacity": 0.2
+            "overlayOpacity": "0.6"
           },
           "title": "Community Conference!",
           "text": "<p>During the last 7 years in Sydney we have had a great time covering many topics that were not only related to software.</p><p>For 2017 we want to provide the same collegiate atmosphere and adhere to our basic principles</p>",
@@ -885,7 +893,7 @@
             "overlayOpacity": 0.5
           },
           "headerAlign": "left",
-          "header": "BASIC PRINCIPLES",
+          "header": "<i>BASIC PRINCIPLES</i>",
           "subheader": "By John Smith posted July 30, 2015",
           "media1": {
             "image": {
@@ -1409,7 +1417,7 @@
             "darkBackground": true,
             "overlay": true,
             "overlayColor": "#28324e",
-            "overlayOpacity": 0.2
+            "overlayOpacity": "0.6"
           },
           "title": "We welcome everyone who passionately cares about making work a better place to deliver tangible value to customers",
           "text": "<p>Make your own website in a few clicks! Mobirise helps you cut down development time by providing you with a flexible website editor with a drag and drop interface. MobiRise Website Builder creates responsive, retina and mobile friendly websites in a few clicks. Mobirise is one of the easiest website development tools available today. It also gives you the freedom to develop as many websites as you like given the fact that it is a desktop app.</p>",
@@ -1495,17 +1503,16 @@
           }
         },
         {
-          "_inherit": "features1",
           "_params": {
-            "showHeader": false,
+            "showHeader": true,
             "showSubheader": false,
-            "showImages": false,
+            "showImages": true,
             "showTitles": true,
             "showCaptions": true,
             "showButtons": false,
             "paddingTop": 3,
             "paddingBottom": 3,
-            "columns": "4",
+            "columns": 4,
             "bgImageRadio": false,
             "bgImage": "images/bg3.jpg",
             "parallax": true,
@@ -1519,15 +1526,11 @@
             "overlayColor": "#222",
             "overlayOpacity": 0.5
           },
-          "_tags": [
-            "Theme"
-          ],
           "headerAlign": "left",
-          "header": "DROP-DEAD EASY WEBSITE MAKER",
+          "header": "<i>BASIC PRINCIPLES</i>",
           "subheader": "By John Smith posted July 30, 2015",
           "media1": {
             "image": {
-              "active": true,
               "src": "images/bootstrap.png",
               "class": "mbr-figure__img",
               "width": 600
@@ -1538,8 +1541,12 @@
             },
             "iconFont": {
               "class": "mbr-iconfont mbr-iconfont-features1",
+              "linkInNewWindow": false,
+              "name": "hearth",
+              "family": "MobiriseIcons",
               "link": "",
-              "size": 0
+              "size": 0,
+              "active": true
             }
           },
           "title1": "COST NEUTRAL EVENT",
@@ -1547,7 +1554,6 @@
           "button1": "<a data-app-btn=\"true\" href=\"https://mobirise.com\" class=\"mbr-buttons__btn btn btn-wrap btn-xs-lg btn-default\">LEARN MORE</a>",
           "media2": {
             "image": {
-              "active": true,
               "src": "images/responsive.png",
               "class": "mbr-figure__img",
               "width": 600
@@ -1558,8 +1564,12 @@
             },
             "iconFont": {
               "class": "mbr-iconfont mbr-iconfont-features1",
+              "linkInNewWindow": false,
+              "name": "users",
+              "family": "MobiriseIcons",
               "link": "",
-              "size": 0
+              "size": 0,
+              "active": true
             }
           },
           "title2": "LIMITED TO 120 COMMITTED ATTENDEES",
@@ -1567,7 +1577,6 @@
           "button2": "<a data-app-btn=\"true\" href=\"https://mobirise.com\" class=\"mbr-buttons__btn btn btn-wrap btn-xs-lg btn-default\">LEARN MORE</a>",
           "media3": {
             "image": {
-              "active": true,
               "src": "images/google-fonts.png",
               "class": "mbr-figure__img",
               "width": 600
@@ -1578,8 +1587,12 @@
             },
             "iconFont": {
               "class": "mbr-iconfont mbr-iconfont-features1",
+              "linkInNewWindow": false,
+              "name": "cust-feedback",
+              "family": "MobiriseIcons",
               "link": "",
-              "size": 0
+              "size": 0,
+              "active": true
             }
           },
           "title3": "ENGAGED TO LEARN FROM ONE ANOTHER",
@@ -1587,7 +1600,6 @@
           "button3": "<a data-app-btn=\"true\" href=\"https://mobirise.com\" class=\"mbr-buttons__btn btn btn-wrap btn-xs-lg btn-default\">LEARN MORE</a>",
           "media4": {
             "image": {
-              "active": true,
               "src": "images/unlimited-websites.png",
               "class": "mbr-figure__img",
               "width": 600
@@ -1598,8 +1610,12 @@
             },
             "iconFont": {
               "class": "mbr-iconfont mbr-iconfont-features1",
+              "linkInNewWindow": false,
+              "name": "drag-n-drop",
+              "family": "MobiriseIcons",
               "link": "",
-              "size": 0
+              "size": 0,
+              "active": true
             }
           },
           "title4": "OPEN SPACE AND ACTIVE FORMAT&nbsp;",
@@ -1645,19 +1661,25 @@
           "title6": "HOST ANYWHERE",
           "caption6": "Publish your website to a local drive, FTP or host on Amazon S3, Google Drive, Github. Don't limit yourself to just one platform or service provider.",
           "button6": "<a data-app-btn=\"true\" href=\"https://mobirise.com\" class=\"mbr-buttons__btn btn btn-wrap btn-xs-lg btn-default\">LEARN MORE</a>",
-          "_name": "content4",
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "features1",
           "_styles": {
             "P": {
-              "text-align": "center",
               "font-family": "'Montserrat', sans-serif",
               "googleLink": "https://fonts.googleapis.com/css?family=Montserrat:400,700"
             },
             ".mbr-section__col .mbr-header__text": {
               "font-family": "'Montserrat', sans-serif",
               "googleLink": "https://fonts.googleapis.com/css?family=Montserrat:400,700"
+            },
+            ".mbr-section-title .mbr-header__text": {
+              "font-family": "'Montserrat', sans-serif",
+              "googleLink": "https://fonts.googleapis.com/css?family=Montserrat:400,700"
             }
           },
-          "_anchor": "content4-1o"
+          "_anchor": "features1-1y"
         },
         {
           "_params": {
@@ -1856,7 +1878,8 @@
             },
             ".btn": {
               "font-family": "'Montserrat', sans-serif",
-              "googleLink": "https://fonts.googleapis.com/css?family=Montserrat:400,700"
+              "googleLink": "https://fonts.googleapis.com/css?family=Montserrat:400,700",
+              "font-size": "16px"
             }
           }
         },
@@ -1916,6 +1939,9 @@
             },
             ".mbr-header .mbr-header__subtext": {
               "text-align": "center"
+            },
+            ".btn": {
+              "font-size": "16px"
             }
           },
           "_params": {
@@ -1993,7 +2019,7 @@
             "darkBackground": true,
             "overlay": true,
             "overlayColor": "#28324e",
-            "overlayOpacity": 0.2
+            "overlayOpacity": "0.6"
           },
           "title": "Community Conference!",
           "text": "<p>During the last 7 years in Sydney we have had a great time covering many topics that were not only related to software.</p><p>For 2017 we want to provide the same collegiate atmosphere and adhere to our basic principles</p>",
@@ -2030,7 +2056,7 @@
             "overlayOpacity": 0.5
           },
           "headerAlign": "left",
-          "header": "BASIC PRINCIPLES",
+          "header": "<i>BASIC PRINCIPLES</i>",
           "subheader": "By John Smith posted July 30, 2015",
           "media1": {
             "image": {
