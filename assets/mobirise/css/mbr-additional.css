@@ -36,6 +36,7 @@
 #header4-n P {
   color: #000000;
   font-family: 'Montserrat', sans-serif;
+  font-size: 24px;
 }
 #header4-n .btn {
   font-family: 'Montserrat', sans-serif;
@@ -146,6 +147,9 @@
   font-family: 'Montserrat', sans-serif;
   font-size: 16px;
 }
+#header4-15 B {
+  font-size: 24px;
+}
 #msg-box3-16 .mbr-header .mbr-header__text {
   text-align: center;
   color: #ffffff;
@@ -253,6 +257,10 @@
 }
 #header4-w .btn {
   font-family: 'Montserrat', sans-serif;
+}
+#header4-w B {
+  color: #000000;
+  font-size: 24px;
 }
 #msg-box3-x .mbr-header .mbr-header__text {
   text-align: center;

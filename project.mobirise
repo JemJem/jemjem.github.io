@@ -109,10 +109,10 @@
             },
             "overlay": true,
             "overlayColor": "#222",
-            "overlayOpacity": "0.2"
+            "overlayOpacity": "0.5"
           },
           "title": "Workshops",
-          "text": "inspire actioning the changes you seek",
+          "text": "<b>inspire actioning the changes you seek</b>",
           "buttons": "<a data-app-btn=\"true\" class=\"mbr-buttons__btn btn btn-lg animated fadeInUp delay btn-danger\" href=\"https://goo.gl/forms/YLWAmA0zXmpBXkgH3\" data-toolbar=\"-mbrBtnMove\" target=\"_blank\"><span class=\"mbri-rocket mbr-iconfont mbr-iconfont-btn\"></span>Join the Challenge</a> <a data-app-btn=\"true\" class=\"mbr-buttons__btn btn btn-lg btn-default animated fadeInUp delay\" href=\"https://goo.gl/forms/YLWAmA0zXmpBXkgH3\" data-toolbar=\"-mbrBtnMove\" target=\"_blank\"><span class=\"mbri-calendar mbr-iconfont mbr-iconfont-btn\"></span>Mon 6 November</a>",
           "_tags": [
             "Theme"
@@ -128,7 +128,8 @@
             "P": {
               "color": "#000000",
               "font-family": "'Montserrat', sans-serif",
-              "googleLink": "https://fonts.googleapis.com/css?family=Montserrat:400,700"
+              "googleLink": "https://fonts.googleapis.com/css?family=Montserrat:400,700",
+              "font-size": "24px"
             },
             ".btn": {
               "font-family": "'Montserrat', sans-serif",
@@ -685,7 +686,7 @@
             "overlayOpacity": "0.2"
           },
           "title": "Support Your Community",
-          "text": "inspire actioning the changes you seek",
+          "text": "<b>inspire actioning the changes you seek</b>",
           "buttons": "<a data-app-btn=\"true\" class=\"mbr-buttons__btn btn btn-lg animated fadeInUp delay btn-danger\" href=\"page2.html\" data-toolbar=\"-mbrBtnMove\"><span class=\"mbri-rocket mbr-iconfont mbr-iconfont-btn\"></span>Join the Challenge</a> <a data-app-btn=\"true\" class=\"mbr-buttons__btn btn btn-lg btn-default animated fadeInUp delay\" href=\"page2.html\" data-toolbar=\"-mbrBtnMove\"><span class=\"mbri-calendar mbr-iconfont mbr-iconfont-btn\"></span>Mon 6 November</a>",
           "_tags": [
             "Theme"
@@ -707,6 +708,9 @@
               "font-family": "'Montserrat', sans-serif",
               "googleLink": "https://fonts.googleapis.com/css?family=Montserrat:400,700",
               "font-size": "16px"
+            },
+            "B": {
+              "font-size": "24px"
             }
           },
           "_anchor": "header4-15"
@@ -1263,11 +1267,11 @@
               "url": "http://www.youtube.com/watch?v=uNCr7NdOJgw"
             },
             "overlay": true,
-            "overlayColor": "#222",
-            "overlayOpacity": "0.2"
+            "overlayColor": "#3c3c3c",
+            "overlayOpacity": "0.5"
           },
           "title": "Join the Challenge!<br>",
-          "text": "inspire actioning the changes you seek",
+          "text": "<b>inspire actioning the changes you seek</b>",
           "buttons": "<a data-app-btn=\"true\" class=\"mbr-buttons__btn btn btn-lg animated fadeInUp delay btn-danger\" href=\"https://mobirise.com\" data-toolbar=\"-mbrBtnMove\">Join the Challenge</a> <a data-app-btn=\"true\" class=\"mbr-buttons__btn btn btn-lg btn-default animated fadeInUp delay\" href=\"https://mobirise.com\" data-toolbar=\"-mbrBtnMove\">Mon 6 November</a>",
           "_tags": [
             "Theme"
@@ -1288,6 +1292,10 @@
             ".btn": {
               "font-family": "'Montserrat', sans-serif",
               "googleLink": "https://fonts.googleapis.com/css?family=Montserrat:400,700"
+            },
+            "B": {
+              "color": "#000000",
+              "font-size": "24px"
             }
           },
           "_anchor": "header4-w"
@@ -1431,7 +1439,7 @@
         },
         {
           "_params": {
-            "firstType": "default",
+            "firstType": "hidden",
             "secondType": "green",
             "thirdType": "favorite",
             "fourthType": "orange",
