@@ -1,7 +1,7 @@
 {
   "settings": {
     "name": "Agile Tour Syd",
-    "currentPage": "tickets.html",
+    "currentPage": "index.html",
     "theme": {
       "name": "default",
       "title": "Mobirise",
@@ -12,7 +12,7 @@
     },
     "versionFirst": "4.2.4",
     "uniqCompNum": 71,
-    "versionPublish": "4.2.4",
+    "versionPublish": "4.3.0",
     "favicon": "@PROJECT_PATH@/assets/images/mbr-favicon-74x74-1.png",
     "noImageResize": "",
     "google-analytics": "<script>\r\n  (function(i,s,o,g,r,a,m){i['GoogleAnalyticsObject']=r;i[r]=i[r]||function(){\r\n  (i[r].q=i[r].q||[]).push(arguments)},i[r].l=1*new Date();a=s.createElement(o),\r\n  m=s.getElementsByTagName(o)[0];a.async=1;a.src=g;m.parentNode.insertBefore(a,m)\r\n  })(window,document,'script','https://www.google-analytics.com/analytics.js','ga');\r\n\r\n  ga('create', 'UA-106213421-1', 'auto');\r\n  ga('send', 'pageview');\r\n\r\n</script>"
@@ -113,7 +113,7 @@
           },
           "title": "Workshops",
           "text": "<b>inspire actioning the changes you seek</b>",
-          "buttons": "<a data-app-btn=\"true\" class=\"mbr-buttons__btn btn btn-lg animated fadeInUp delay btn-danger\" href=\"https://goo.gl/forms/YLWAmA0zXmpBXkgH3\" data-toolbar=\"-mbrBtnMove\" target=\"_blank\"><span class=\"mbri-rocket mbr-iconfont mbr-iconfont-btn\"></span>Join the Challenge</a> <a data-app-btn=\"true\" class=\"mbr-buttons__btn btn btn-lg btn-default animated fadeInUp delay\" href=\"https://goo.gl/forms/YLWAmA0zXmpBXkgH3\" data-toolbar=\"-mbrBtnMove\" target=\"_blank\"><span class=\"mbri-calendar mbr-iconfont mbr-iconfont-btn\"></span>Mon 6 November</a>",
+          "buttons": "<a data-app-btn=\"true\" class=\"mbr-buttons__btn btn btn-lg animated fadeInUp delay btn-danger\" href=\"tickets.html#pricing-table1-1g\" data-toolbar=\"-mbrBtnMove\"><span class=\"mbri-rocket mbr-iconfont mbr-iconfont-btn\"></span>Join the Challenge</a> <a data-app-btn=\"true\" class=\"mbr-buttons__btn btn btn-lg btn-default animated fadeInUp delay\" href=\"tickets.html#pricing-table1-1g\" data-toolbar=\"-mbrBtnMove\"><span class=\"mbri-calendar mbr-iconfont mbr-iconfont-btn\"></span>Mon 6 November</a>",
           "_tags": [
             "Theme"
           ],
@@ -205,7 +205,7 @@
             "showMeta": false,
             "showCaption": "noCaption",
             "showText": false,
-            "showButton": true,
+            "showButton": false,
             "paddingTop": 3,
             "paddingBottom": 3,
             "bgImageRadio": false,
@@ -687,7 +687,7 @@
           },
           "title": "Support Your Community",
           "text": "<b>inspire actioning the changes you seek</b>",
-          "buttons": "<a data-app-btn=\"true\" class=\"mbr-buttons__btn btn btn-lg animated fadeInUp delay btn-danger\" href=\"page2.html\" data-toolbar=\"-mbrBtnMove\"><span class=\"mbri-rocket mbr-iconfont mbr-iconfont-btn\"></span>Join the Challenge</a> <a data-app-btn=\"true\" class=\"mbr-buttons__btn btn btn-lg btn-default animated fadeInUp delay\" href=\"page2.html\" data-toolbar=\"-mbrBtnMove\"><span class=\"mbri-calendar mbr-iconfont mbr-iconfont-btn\"></span>Mon 6 November</a>",
+          "buttons": "<a data-app-btn=\"true\" class=\"mbr-buttons__btn btn btn-lg animated fadeInUp delay btn-danger\" href=\"tickets.html#pricing-table1-1g\" data-toolbar=\"-mbrBtnMove\"><span class=\"mbri-rocket mbr-iconfont mbr-iconfont-btn\"></span>Join the Challenge</a> <a data-app-btn=\"true\" class=\"mbr-buttons__btn btn btn-lg btn-default animated fadeInUp delay\" href=\"tickets.html#pricing-table1-1g\" data-toolbar=\"-mbrBtnMove\"><span class=\"mbri-calendar mbr-iconfont mbr-iconfont-btn\"></span>Mon 6 November</a>",
           "_tags": [
             "Theme"
           ],
@@ -790,7 +790,7 @@
             "showMeta": false,
             "showCaption": "noCaption",
             "showText": true,
-            "showButton": true,
+            "showButton": false,
             "paddingTop": 3,
             "paddingBottom": 3,
             "bgImageRadio": false,
@@ -1866,7 +1866,7 @@
           },
           "title": "Agile Tour Syd 2017",
           "text": "Challenging Our Agility",
-          "buttons": "<a data-app-btn=\"true\" class=\"mbr-buttons__btn btn btn-lg animated fadeInUp delay btn-danger\" href=\"tickets.html\" data-toolbar=\"-mbrBtnMove\"><span class=\"mbri-rocket mbr-iconfont mbr-iconfont-btn\"></span>Join the Challenge</a> <a data-app-btn=\"true\" class=\"mbr-buttons__btn btn btn-lg btn-default animated fadeInUp delay\" href=\"tickets.html\" data-toolbar=\"-mbrBtnMove\"><span class=\"mbri-calendar mbr-iconfont mbr-iconfont-btn\"></span>Mon 6 November</a>",
+          "buttons": "<a data-app-btn=\"true\" class=\"mbr-buttons__btn btn btn-lg animated fadeInUp delay btn-danger\" href=\"tickets.html#pricing-table1-1g\" data-toolbar=\"-mbrBtnMove\"><span class=\"mbri-rocket mbr-iconfont mbr-iconfont-btn\"></span>Join the Challenge</a> <a data-app-btn=\"true\" class=\"mbr-buttons__btn btn btn-lg btn-default animated fadeInUp delay\" href=\"tickets.html#pricing-table1-1g\" data-toolbar=\"-mbrBtnMove\"><span class=\"mbri-calendar mbr-iconfont mbr-iconfont-btn\"></span>Mon 6 November</a>",
           "_tags": [
             "Theme"
           ],
@@ -1957,7 +1957,7 @@
             "showMeta": false,
             "showCaption": "noCaption",
             "showText": false,
-            "showButton": true,
+            "showButton": false,
             "paddingTop": 3,
             "paddingBottom": 3,
             "bgImageRadio": false,
@@ -1977,7 +1977,7 @@
           "title": "The Sydney Agile Community is gathering in November&nbsp;<div><span style=\"color: inherit; font-family: inherit;\"><br></span></div><br><div><span style=\"color: inherit; font-family: inherit;\">A full day experience of discovery, failure, success and learning.</span><br></div><div><br></div>",
           "meta": "By John Smith posted July 30, 2015",
           "text": "<p>Mobirise has provided for website developers a growing library of modern blocks which can be used either partially or in full for every website developed through the builder.</p>",
-          "button": "<a data-app-btn=\"true\" class=\"mbr-buttons__btn btn btn-lg btn-default\" href=\"https://goo.gl/forms/YLWAmA0zXmpBXkgH3\" data-toolbar=\"-mbrBtnMove\" target=\"_blank\"><span class=\"mbri-edit mbr-iconfont mbr-iconfont-btn\"></span>SUBMIT A WORKSHOP</a>",
+          "button": "<a data-app-btn=\"true\" class=\"mbr-buttons__btn btn btn-lg btn-default\" href=\"https://goo.gl/forms/YLWAmA0zXmpBXkgH3\" data-toolbar=\"-mbrBtnMove\" target=\"_blank\"><span class=\"mbri-edit mbr-iconfont mbr-iconfont-btn\"></span>SUBMIT A WORKSHOP<br></a>",
           "_tags": [
             "Theme"
           ],
