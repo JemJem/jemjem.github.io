@@ -1,7 +1,7 @@
 {
   "settings": {
     "name": "Agile Tour Syd",
-    "currentPage": "workshops.html",
+    "currentPage": "crew.html",
     "theme": {
       "name": "default",
       "title": "Mobirise",
@@ -2822,7 +2822,7 @@
           },
           "headerAlign": "left",
           "meta": "By&nbsp;Mike Mallete",
-          "button": "<a data-app-btn=\"true\" class=\"mbr-buttons__btn btn btn-lg btn-default\" href=\"https://mobirise.com\" data-toolbar=\"-mbrBtnMove\">LEARN MORE</a>",
+          "button": "<a data-app-btn=\"true\" class=\"mbr-buttons__btn btn btn-lg btn-default\" href=\"https://www.linkedin.com/in/mikemallete/\" data-toolbar=\"-mbrBtnMove\" target=\"_blank\">LEARN MORE</a>",
           "_name": "msg-box4",
           "_anchor": "msg-box4-2i"
         },
@@ -2890,7 +2890,7 @@
           },
           "headerAlign": "left",
           "meta": "By Craig Smith<br>",
-          "button": "<a data-app-btn=\"true\" class=\"mbr-buttons__btn btn btn-lg btn-default\" href=\"https://mobirise.com\" data-toolbar=\"-mbrBtnMove\">LEARN MORE</a>",
+          "button": "<a data-app-btn=\"true\" class=\"mbr-buttons__btn btn btn-lg btn-default\" href=\"https://www.linkedin.com/in/craigsmithau/\" data-toolbar=\"-mbrBtnMove\" target=\"_blank\">LEARN MORE</a>",
           "_name": "msg-box4",
           "_anchor": "msg-box4-2j"
         },
@@ -2923,7 +2923,7 @@
               "active": true,
               "class": "mbr-figure__img",
               "width": 1400,
-              "src": "@PROJECT_PATH@/assets/images/rob-337x337.jpg",
+              "src": "@PROJECT_PATH@/assets/images/rowan-286x254.png",
               "link": "",
               "alt": "",
               "title": ""
@@ -2994,7 +2994,7 @@
               "active": true,
               "class": "mbr-figure__img",
               "width": 1400,
-              "src": "@PROJECT_PATH@/assets/images/martyn-200x200.jpg",
+              "src": "@PROJECT_PATH@/assets/images/peter-512x511.jpg",
               "link": "",
               "alt": "",
               "title": ""
@@ -3029,7 +3029,7 @@
           },
           "headerAlign": "left",
           "meta": "By&nbsp;Peter Merel&nbsp;",
-          "button": "<a data-app-btn=\"true\" class=\"mbr-buttons__btn btn btn-lg btn-default\" href=\"https://mobirise.com\" data-toolbar=\"-mbrBtnMove\">LEARN MORE</a>",
+          "button": "<a data-app-btn=\"true\" class=\"mbr-buttons__btn btn btn-lg btn-default\" href=\"https://www.linkedin.com/in/petermerel/\" data-toolbar=\"-mbrBtnMove\" target=\"_blank\">LEARN MORE</a>",
           "_name": "msg-box4",
           "_anchor": "msg-box4-2l"
         },
@@ -3062,7 +3062,7 @@
               "active": true,
               "class": "mbr-figure__img",
               "width": 1400,
-              "src": "@PROJECT_PATH@/assets/images/alidad-200x200.jpg",
+              "src": "@PROJECT_PATH@/assets/images/dave-400x400.jpg",
               "link": "",
               "alt": "",
               "title": ""
@@ -3097,7 +3097,7 @@
           },
           "headerAlign": "left",
           "meta": "By Dave Bales<br>",
-          "button": "<a data-app-btn=\"true\" class=\"mbr-buttons__btn btn btn-lg btn-default\" href=\"https://mobirise.com\" data-toolbar=\"-mbrBtnMove\">LEARN MORE</a>",
+          "button": "<a data-app-btn=\"true\" class=\"mbr-buttons__btn btn btn-lg btn-default\" href=\"https://www.linkedin.com/in/balesy/\" data-toolbar=\"-mbrBtnMove\" target=\"_blank\">LEARN MORE</a>",
           "_name": "msg-box4",
           "_anchor": "msg-box4-2n"
         },
@@ -3130,7 +3130,7 @@
               "active": true,
               "class": "mbr-figure__img",
               "width": 1400,
-              "src": "@PROJECT_PATH@/assets/images/rob-337x337.jpg",
+              "src": "@PROJECT_PATH@/assets/images/rowan-286x254.png",
               "link": "",
               "alt": "",
               "title": ""
@@ -3201,7 +3201,7 @@
               "active": true,
               "class": "mbr-figure__img",
               "width": 1400,
-              "src": "@PROJECT_PATH@/assets/images/martyn-200x200.jpg",
+              "src": "@PROJECT_PATH@/assets/images/peter-512x511.jpg",
               "link": "",
               "alt": "",
               "title": ""
@@ -3236,7 +3236,7 @@
           },
           "headerAlign": "left",
           "meta": "By Martyn Frank",
-          "button": "<a data-app-btn=\"true\" class=\"mbr-buttons__btn btn btn-lg btn-default\" href=\"https://mobirise.com\" data-toolbar=\"-mbrBtnMove\">LEARN MORE</a>",
+          "button": "<a data-app-btn=\"true\" class=\"mbr-buttons__btn btn btn-lg btn-default\" href=\"https://www.linkedin.com/in/martynfrank/\" data-toolbar=\"-mbrBtnMove\" target=\"_blank\">LEARN MORE</a>",
           "_name": "msg-box4",
           "_anchor": "msg-box4-2q"
         },
@@ -3269,7 +3269,7 @@
               "active": true,
               "class": "mbr-figure__img",
               "width": 1400,
-              "src": "@PROJECT_PATH@/assets/images/alidad-200x200.jpg",
+              "src": "@PROJECT_PATH@/assets/images/dave-400x400.jpg",
               "link": "",
               "alt": "",
               "title": ""
@@ -3304,7 +3304,7 @@
           },
           "headerAlign": "left",
           "meta": "By Alidad Hamadi<br>",
-          "button": "<a data-app-btn=\"true\" class=\"mbr-buttons__btn btn btn-lg btn-default\" href=\"https://mobirise.com\" data-toolbar=\"-mbrBtnMove\">LEARN MORE</a>",
+          "button": "<a data-app-btn=\"true\" class=\"mbr-buttons__btn btn btn-lg btn-default\" href=\"https://www.linkedin.com/in/alidadhamidi/\" data-toolbar=\"-mbrBtnMove\" target=\"_blank\">LEARN MORE</a>",
           "_name": "msg-box4",
           "_anchor": "msg-box4-2r"
         },
