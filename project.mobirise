@@ -1,7 +1,7 @@
 {
   "settings": {
     "name": "Agile Tour Syd",
-    "currentPage": "crew.html",
+    "currentPage": "workshops.html",
     "theme": {
       "name": "default",
       "title": "Mobirise",
@@ -11,7 +11,7 @@
       ]
     },
     "versionFirst": "4.2.4",
-    "uniqCompNum": 97,
+    "uniqCompNum": 100,
     "versionPublish": "4.3.4",
     "favicon": "@PROJECT_PATH@/assets/images/mbr-favicon-74x74-1.png",
     "noImageResize": "",
@@ -504,7 +504,7 @@
               "size": 0
             }
           },
-          "title2": "ALL FOR ONE &amp; ONE FOR ALL<br><i style=\"font-weight: normal;\">by Martyn Frank &amp; Alidad Hamadi</i>",
+          "title2": "ALL FOR ONE &amp; ONE FOR ALL<br><i style=\"font-weight: normal;\">by <a href=\"crew.html#msg-box4-2q\">Martyn Frank</a> &amp; <a href=\"crew.html#msg-box4-2r\">Alidad Hamadi</a></i>",
           "caption2": "Have you ever been part of an amazing team? <br>How frustrated do you get that you haven’t had that experience again?  <br>Would it be great if your team would pull their weight, and your mangers wouldn’t interfere? <br><br>How could fix your team and your managers?<br><br>Come join our workshop to find out how you can create that experience again?<br>",
           "button2": "<a data-app-btn=\"true\" href=\"https://mobirise.com\" class=\"mbr-buttons__btn btn btn-wrap btn-xs-lg btn-default\">LEARN MORE</a>",
           "media3": {
@@ -662,7 +662,7 @@
               "size": 0
             }
           },
-          "title2": "IT IS F#@KED OR IS IT?<br><i style=\"font-weight: normal;\">by Rob Gibson</i>",
+          "title2": "IT IS F#@KED OR IS IT?<br><i style=\"font-weight: normal;\">by <a href=\"crew.html#msg-box4-2p\">Rob Gibson</a></i>",
           "caption2": "You want to get past the jargon, hype, religion and \"methodology\" of Agile, Lean and Design Thinking to make **real** changes in your organisation and the world. Yes. The world.",
           "button2": "<a data-app-btn=\"true\" href=\"https://mobirise.com\" class=\"mbr-buttons__btn btn btn-wrap btn-xs-lg btn-default\">LEARN MORE</a>",
           "media3": {
@@ -2693,7 +2693,7 @@
             "showTitle": true,
             "showMeta": true,
             "showText": true,
-            "showButtons": false,
+            "showButtons": true,
             "inverse": true,
             "imageSize": 50,
             "paddingTop": 3,
@@ -2754,7 +2754,7 @@
           },
           "headerAlign": "left",
           "meta": "By Stuart Bargon",
-          "button": "<a data-app-btn=\"true\" class=\"mbr-buttons__btn btn btn-lg btn-primary\" href=\"https://mobirise.com\" data-toolbar=\"-mbrBtnMove\">LEARN MORE</a>",
+          "button": "<a data-app-btn=\"true\" class=\"mbr-buttons__btn btn btn-lg btn-primary\" href=\"https://www.linkedin.com/in/stuartbargon/\" data-toolbar=\"-mbrBtnMove\" target=\"_blank\">LEARN MORE</a>",
           "_name": "msg-box4",
           "_anchor": "msg-box4-29"
         },
@@ -2764,7 +2764,7 @@
             "showTitle": true,
             "showMeta": true,
             "showText": true,
-            "showButtons": false,
+            "showButtons": true,
             "inverse": false,
             "imageSize": 50,
             "paddingTop": 3,
@@ -2822,7 +2822,7 @@
           },
           "headerAlign": "left",
           "meta": "By&nbsp;Mike Mallete",
-          "button": "<a data-app-btn=\"true\" class=\"mbr-buttons__btn btn btn-lg btn-default\" href=\"https://mobirise.com\">LEARN MORE</a>",
+          "button": "<a data-app-btn=\"true\" class=\"mbr-buttons__btn btn btn-lg btn-default\" href=\"https://mobirise.com\" data-toolbar=\"-mbrBtnMove\">LEARN MORE</a>",
           "_name": "msg-box4",
           "_anchor": "msg-box4-2i"
         },
@@ -2832,7 +2832,7 @@
             "showTitle": true,
             "showMeta": true,
             "showText": true,
-            "showButtons": false,
+            "showButtons": true,
             "inverse": true,
             "imageSize": 50,
             "paddingTop": 3,
@@ -2890,7 +2890,7 @@
           },
           "headerAlign": "left",
           "meta": "By Craig Smith<br>",
-          "button": "<a data-app-btn=\"true\" class=\"mbr-buttons__btn btn btn-lg btn-default\" href=\"https://mobirise.com\">LEARN MORE</a>",
+          "button": "<a data-app-btn=\"true\" class=\"mbr-buttons__btn btn btn-lg btn-default\" href=\"https://mobirise.com\" data-toolbar=\"-mbrBtnMove\">LEARN MORE</a>",
           "_name": "msg-box4",
           "_anchor": "msg-box4-2j"
         },
@@ -2900,7 +2900,7 @@
             "showTitle": true,
             "showMeta": true,
             "showText": true,
-            "showButtons": false,
+            "showButtons": true,
             "inverse": false,
             "imageSize": 50,
             "paddingTop": 3,
@@ -2923,7 +2923,7 @@
               "active": true,
               "class": "mbr-figure__img",
               "width": 1400,
-              "src": "@PROJECT_PATH@/assets/images/rowan-286x254.png",
+              "src": "@PROJECT_PATH@/assets/images/rob-337x337.jpg",
               "link": "",
               "alt": "",
               "title": ""
@@ -2961,7 +2961,7 @@
           },
           "headerAlign": "left",
           "meta": "By Rowan Bunning",
-          "button": "<a data-app-btn=\"true\" class=\"mbr-buttons__btn btn btn-lg btn-primary\" href=\"https://mobirise.com\" data-toolbar=\"-mbrBtnMove\">LEARN MORE</a>",
+          "button": "<a data-app-btn=\"true\" class=\"mbr-buttons__btn btn btn-lg btn-primary\" href=\"https://www.linkedin.com/in/rowanbunning/\" data-toolbar=\"-mbrBtnMove\" target=\"_blank\">LEARN MORE</a>",
           "_name": "msg-box4",
           "_anchor": "msg-box4-2k"
         },
@@ -2971,7 +2971,7 @@
             "showTitle": true,
             "showMeta": true,
             "showText": true,
-            "showButtons": false,
+            "showButtons": true,
             "inverse": true,
             "imageSize": 50,
             "paddingTop": 3,
@@ -2994,7 +2994,7 @@
               "active": true,
               "class": "mbr-figure__img",
               "width": 1400,
-              "src": "@PROJECT_PATH@/assets/images/peter-512x511.jpg",
+              "src": "@PROJECT_PATH@/assets/images/martyn-200x200.jpg",
               "link": "",
               "alt": "",
               "title": ""
@@ -3012,7 +3012,7 @@
             }
           },
           "title": "Tragedy of the PMO",
-          "text": "<p>CTO at XSCALE Alliance and Author of The Agile Tao</p><p>Author of the Agile Tao, founder of XSCALE Alliance</p>",
+          "text": "<p>CTO at XSCALE Alliance and Author of The Agile Tao</p><p>Author of the Agile Tao, founder of XSCALE Alliance</p><p>I have three decades in delivery programs for manufacturing, banking, mobile/social, cloud, telco and big data products. Leading roles on the $9B CBA Mobile Channel “Kaching”, Invensys \"I/A Systems SCADA” which controls a third of the world’s oil infrastructure, and Telstra’s OMP grid which controlled its international telco network for 2 decades. Author of patents in scheduling, e-currency, pattern recognition and social ratings, led multiple startups and open source projects including the first Wikipedia wiki engine.</p>",
           "_tags": [
             "Theme"
           ],
@@ -3029,7 +3029,7 @@
           },
           "headerAlign": "left",
           "meta": "By&nbsp;Peter Merel&nbsp;",
-          "button": "<a data-app-btn=\"true\" class=\"mbr-buttons__btn btn btn-lg btn-default\" href=\"https://mobirise.com\">LEARN MORE</a>",
+          "button": "<a data-app-btn=\"true\" class=\"mbr-buttons__btn btn btn-lg btn-default\" href=\"https://mobirise.com\" data-toolbar=\"-mbrBtnMove\">LEARN MORE</a>",
           "_name": "msg-box4",
           "_anchor": "msg-box4-2l"
         },
@@ -3039,7 +3039,7 @@
             "showTitle": true,
             "showMeta": true,
             "showText": true,
-            "showButtons": false,
+            "showButtons": true,
             "inverse": false,
             "imageSize": 50,
             "paddingTop": 3,
@@ -3062,7 +3062,7 @@
               "active": true,
               "class": "mbr-figure__img",
               "width": 1400,
-              "src": "@PROJECT_PATH@/assets/images/dave-400x400.jpg",
+              "src": "@PROJECT_PATH@/assets/images/alidad-200x200.jpg",
               "link": "",
               "alt": "",
               "title": ""
@@ -3097,9 +3097,216 @@
           },
           "headerAlign": "left",
           "meta": "By Dave Bales<br>",
-          "button": "<a data-app-btn=\"true\" class=\"mbr-buttons__btn btn btn-lg btn-default\" href=\"https://mobirise.com\">LEARN MORE</a>",
+          "button": "<a data-app-btn=\"true\" class=\"mbr-buttons__btn btn btn-lg btn-default\" href=\"https://mobirise.com\" data-toolbar=\"-mbrBtnMove\">LEARN MORE</a>",
           "_name": "msg-box4",
           "_anchor": "msg-box4-2n"
+        },
+        {
+          "_inherit": "msg-box5",
+          "_params": {
+            "showTitle": true,
+            "showMeta": true,
+            "showText": true,
+            "showButtons": true,
+            "inverse": true,
+            "imageSize": 50,
+            "paddingTop": 3,
+            "paddingBottom": 3,
+            "bgImageRadio": false,
+            "bgImage": "images/bg3.jpg",
+            "parallax": true,
+            "bgColorRadio": true,
+            "bgColor": "#ffffff",
+            "bgVideoRadio": false,
+            "bgVideo": {
+              "url": "http://www.youtube.com/watch?v=uNCr7NdOJgw"
+            },
+            "overlay": false,
+            "overlayColor": "#222",
+            "overlayOpacity": 0.5
+          },
+          "media": {
+            "image": {
+              "active": true,
+              "class": "mbr-figure__img",
+              "width": 1400,
+              "src": "@PROJECT_PATH@/assets/images/rob-337x337.jpg",
+              "link": "",
+              "alt": "",
+              "title": ""
+            },
+            "video": {
+              "src": "http://www.youtube.com/embed/sOSTC6FM6Bw",
+              "aspectratio": "16:9",
+              "autoplay": false,
+              "loop": false
+            },
+            "iconFont": {
+              "class": "mbr-iconfont mbr-iconfont-msg-box4",
+              "link": "",
+              "size": 0
+            }
+          },
+          "title": "It is F#@ked or is it?",
+          "text": "<p>Consultant, Trainer, Facilitator, Coach</p><p>When I started with Agile it was a dirty word. Now everyone's on the band wagon. Why do things still suck? Why doesn't \"agility\" ever work it's way up to the executive team? Let's sort it out.</p><p>You want to get past the jargon, hype, religion and \"methodology\" of Agile, Lean and Design Thinking to make **real** changes in your organisation and the world. Yes. The world.</p><p><br></p>",
+          "_tags": [
+            "Theme"
+          ],
+          "_styles": {
+            ".mbr-header__text": {
+              "color": "#3c3c3c"
+            },
+            ".mbr-header__subtext": {
+              "color": "#3c3c3c"
+            },
+            ".mbr-article": {
+              "color": "#ffffff"
+            },
+            ".mbr-article P": {
+              "color": "#7c706b"
+            }
+          },
+          "headerAlign": "left",
+          "meta": "By Rob Gibson",
+          "button": "<a data-app-btn=\"true\" class=\"mbr-buttons__btn btn btn-lg btn-primary\" href=\"https://www.linkedin.com/in/arobgibson/\" data-toolbar=\"-mbrBtnMove\" target=\"_blank\">LEARN MORE</a>",
+          "_name": "msg-box4",
+          "_anchor": "msg-box4-2p"
+        },
+        {
+          "_inherit": "msg-box5",
+          "_params": {
+            "showTitle": true,
+            "showMeta": true,
+            "showText": true,
+            "showButtons": true,
+            "inverse": false,
+            "imageSize": 50,
+            "paddingTop": 3,
+            "paddingBottom": 3,
+            "bgImageRadio": false,
+            "bgImage": "images/bg3.jpg",
+            "parallax": true,
+            "bgColorRadio": true,
+            "bgColor": "#f97352",
+            "bgVideoRadio": false,
+            "bgVideo": {
+              "url": "http://www.youtube.com/watch?v=uNCr7NdOJgw"
+            },
+            "overlay": false,
+            "overlayColor": "#222",
+            "overlayOpacity": 0.5
+          },
+          "media": {
+            "image": {
+              "active": true,
+              "class": "mbr-figure__img",
+              "width": 1400,
+              "src": "@PROJECT_PATH@/assets/images/martyn-200x200.jpg",
+              "link": "",
+              "alt": "",
+              "title": ""
+            },
+            "video": {
+              "src": "http://www.youtube.com/embed/sOSTC6FM6Bw",
+              "aspectratio": "16:9",
+              "autoplay": false,
+              "loop": false
+            },
+            "iconFont": {
+              "class": "mbr-iconfont mbr-iconfont-msg-box4",
+              "link": "",
+              "size": 0
+            }
+          },
+          "title": "All for one and One for all",
+          "text": "<p>By leading, training, mentoring, and coaching, success for me is to help people realise or re-invigorate their passion and to help them find a their reason to go to work and make an impact.</p><p>With a focus of delivering better outcomes to end customers, I help create a culture and environment whereby groups of individuals from across the organisation work together as a team, to achieve amazing outcomes as a collective unit.&nbsp;</p><p>I strive to create safe to experiment environments, helping stimulate innovative thinking towards positive change.</p><p>I impress on others to stop wasting energy protecting themselves from each other and the organisation with in which we work, and start working together.</p><p>I use visual capture and visual thinking to create conceptual maps and stories of group conversations, fostering a shared understanding towards common objectives.</p>",
+          "_tags": [
+            "Theme"
+          ],
+          "_styles": {
+            ".mbr-header__text": {
+              "color": "#ffffff"
+            },
+            ".mbr-header__subtext": {
+              "color": "#ffffff"
+            },
+            ".mbr-article": {
+              "color": "#ffffff"
+            }
+          },
+          "headerAlign": "left",
+          "meta": "By Martyn Frank",
+          "button": "<a data-app-btn=\"true\" class=\"mbr-buttons__btn btn btn-lg btn-default\" href=\"https://mobirise.com\" data-toolbar=\"-mbrBtnMove\">LEARN MORE</a>",
+          "_name": "msg-box4",
+          "_anchor": "msg-box4-2q"
+        },
+        {
+          "_inherit": "msg-box5",
+          "_params": {
+            "showTitle": true,
+            "showMeta": true,
+            "showText": true,
+            "showButtons": true,
+            "inverse": true,
+            "imageSize": 50,
+            "paddingTop": 3,
+            "paddingBottom": 3,
+            "bgImageRadio": false,
+            "bgImage": "images/bg3.jpg",
+            "parallax": true,
+            "bgColorRadio": true,
+            "bgColor": "#fac51c",
+            "bgVideoRadio": false,
+            "bgVideo": {
+              "url": "http://www.youtube.com/watch?v=uNCr7NdOJgw"
+            },
+            "overlay": false,
+            "overlayColor": "#222",
+            "overlayOpacity": 0.5
+          },
+          "media": {
+            "image": {
+              "active": true,
+              "class": "mbr-figure__img",
+              "width": 1400,
+              "src": "@PROJECT_PATH@/assets/images/alidad-200x200.jpg",
+              "link": "",
+              "alt": "",
+              "title": ""
+            },
+            "video": {
+              "src": "http://www.youtube.com/embed/sOSTC6FM6Bw",
+              "aspectratio": "16:9",
+              "autoplay": false,
+              "loop": false
+            },
+            "iconFont": {
+              "class": "mbr-iconfont mbr-iconfont-msg-box4",
+              "link": "",
+              "size": 0
+            }
+          },
+          "title": "All for one and One for all",
+          "text": "<p>I believe while there is value in continuous improvement, I prefer to focus on continuous learning, trust, collaboration, co-creation, reflection and continuous empathy and courage and I've been privileged and lucky to work with teams that live and breathe some or most of these values.&nbsp;</p><p><br></p><p>As an Agile Coach my aspiration is to help leaders see, unlearn and rediscover that the true self organisation could only happen when you create enabling condition that include \"shared consciousness\", \"empowered execution\" and \"enablement of mastery\", one without the others results in either frustration or chaos.</p>",
+          "_tags": [
+            "Theme"
+          ],
+          "_styles": {
+            ".mbr-header__text": {
+              "color": "#ffffff"
+            },
+            ".mbr-header__subtext": {
+              "color": "#ffffff"
+            },
+            ".mbr-article": {
+              "color": "#ffffff"
+            }
+          },
+          "headerAlign": "left",
+          "meta": "By Alidad Hamadi<br>",
+          "button": "<a data-app-btn=\"true\" class=\"mbr-buttons__btn btn btn-lg btn-default\" href=\"https://mobirise.com\" data-toolbar=\"-mbrBtnMove\">LEARN MORE</a>",
+          "_name": "msg-box4",
+          "_anchor": "msg-box4-2r"
         },
         {
           "_params": {
