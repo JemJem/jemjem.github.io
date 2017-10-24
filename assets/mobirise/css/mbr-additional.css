@@ -8,11 +8,6 @@
 
 
 
-
-
-
-
-
 #menu-m .mbr-brand__name {
   font-size: 16px;
 }
@@ -81,20 +76,11 @@
   text-align: center;
   font-family: 'Montserrat', sans-serif;
 }
-#features1-1q P {
-  font-family: 'Montserrat', sans-serif;
+#features1-2h P {
+  color: #ffffff;
 }
-#features1-1q .mbr-section__col .mbr-header__text {
-  font-family: 'Montserrat', sans-serif;
-}
-#features1-1q .mbr-section-title .mbr-header__text {
-  font-family: 'Montserrat', sans-serif;
-}
-#form1-1e .mbr-header__text {
-  font-family: 'Montserrat', sans-serif;
-}
-#form1-1e .btn {
-  font-family: 'Montserrat', sans-serif;
+#features1-2g P {
+  color: #ffffff;
 }
 #image2-u SMALL {
   font-family: 'Montserrat', sans-serif;
@@ -410,5 +396,84 @@
   font-size: 14px;
 }
 #social-buttons2-20 .mbr-header__text {
+  color: #c1c1c1;
+}
+
+
+
+
+
+
+#header4-2b H1 {
+  font-family: 'Montserrat', sans-serif;
+  color: #ffffff;
+}
+#header4-2b P {
+  color: #000000;
+  font-family: 'Montserrat', sans-serif;
+}
+#header4-2b .btn {
+  font-family: 'Montserrat', sans-serif;
+}
+#menu-27 .mbr-brand__name {
+  font-size: 16px;
+}
+#menu-27.mbr-navbar--stuck .mbr-navbar__section {
+  background: #3c3c3c;
+}
+#menu-27 .mbr-navbar__hamburger {
+  color: #ffffff;
+}
+#menu-27 .mbr-brand__name a {
+  font-family: 'Montserrat', sans-serif;
+  font-size: 18px;
+}
+#menu-27 .mbr-navbar__items a {
+  font-family: 'Montserrat', sans-serif;
+}
+#msg-box3-2c .mbr-header .mbr-header__text {
+  text-align: center;
+  color: #ffffff;
+  font-size: 36px;
+  font-family: 'Montserrat', sans-serif;
+}
+#msg-box3-2c .mbr-header .mbr-header__subtext {
+  text-align: center;
+  color: #c1c1c1;
+}
+#msg-box3-2c .mbr-article P {
+  text-align: center;
+}
+#msg-box4-29 .mbr-header__text {
+  color: #3c3c3c;
+}
+#msg-box4-29 .mbr-header__subtext {
+  color: #3c3c3c;
+}
+#msg-box4-29 .mbr-article {
+  color: #ffffff;
+}
+#msg-box4-29 .mbr-article P {
+  color: #7c706b;
+}
+#msg-box4-2i .mbr-header__text {
+  color: #ffffff;
+}
+#msg-box4-2i .mbr-header__subtext {
+  color: #ffffff;
+}
+#msg-box4-2i .mbr-article {
+  color: #ffffff;
+}
+#msg-box4-2j .mbr-header__text {
+  color: #ffffff;
+}
+#msg-box4-2j .mbr-header__subtext {
+  color: #ffffff;
+}
+#msg-box4-2j .mbr-article {
+  color: #ffffff;
+}
+#social-buttons2-2d .mbr-header__text {
   color: #c1c1c1;
 }
