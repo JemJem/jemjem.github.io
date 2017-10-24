@@ -1,7 +1,7 @@
 {
   "settings": {
     "name": "Agile Tour Syd",
-    "currentPage": "sponsors.html",
+    "currentPage": "crew.html",
     "theme": {
       "name": "default",
       "title": "Mobirise",
@@ -331,7 +331,7 @@
               "size": 0
             }
           },
-          "title1": "COACHING NIGHTMARE<br><i style=\"font-weight: normal;\">by Craig Smith</i>",
+          "title1": "COACHING NIGHTMARE<br><i style=\"font-weight: normal;\"><a href=\"crew.html#msg-box4-2j\">by Craig Smith</a></i>",
           "caption1": "When you look for inspiration in the Agile coaching community, the name Gordon Ramsay is probably not the first name to come to mind.<br><br>He has been known to be belligerent, condescending and downright rude, but underneath this brute facade is a treasure trove of skills and talents that influence change.<br>",
           "button1": "<a data-app-btn=\"true\" href=\"https://mobirise.com\" class=\"mbr-buttons__btn btn btn-wrap btn-xs-lg btn-default\" data-toolbar=\"-mbrBtnMove\">LEARN MORE</a>",
           "media2": {
@@ -351,7 +351,7 @@
               "size": 0
             }
           },
-          "title2": "I'M SORRY (YOU'RE WELCOME)<br><i style=\"font-weight: normal;\">by Michale Mallete</i>",
+          "title2": "I'M SORRY (YOU'RE WELCOME)<br><i style=\"font-weight: normal;\"><a href=\"crew.html#msg-box4-2i\">by Michale Mallete</a></i>",
           "caption2": "We Agile Coaches, Advocates, and Practitioners, have a hand in the current state of agility in Australia, for better or worse. It is time for us, as a community, to own and lead the industry towards the next level.<br><br>During the workshop, we shall get a good grasp on current state of Agile implementation from the community’s perspective and how to progress from that.<br>Our goal is to have something valuable to bring back to the organisations we are working with/for.",
           "button2": "<a data-app-btn=\"true\" href=\"https://mobirise.com\" class=\"mbr-buttons__btn btn btn-wrap btn-xs-lg btn-default\">LEARN MORE</a>",
           "media3": {
@@ -371,7 +371,7 @@
               "size": 0
             }
           },
-          "title3": "TRAGEDY OF THE PMO<br><span style=\"font-weight: normal;\"><i>by Peter Merel</i></span>",
+          "title3": "TRAGEDY OF THE PMO<br><span style=\"font-weight: normal;\"><i><a href=\"crew.html#msg-box4-2l\">by Peter Merel</a></i></span>",
           "caption3": "A simple card game explains why PMOs generate technical debt, and what to do about that.<br>",
           "button3": "<a data-app-btn=\"true\" href=\"https://mobirise.com\" class=\"mbr-buttons__btn btn btn-wrap btn-xs-lg btn-default\">LEARN MORE</a>",
           "media4": {
@@ -484,7 +484,7 @@
               "size": 0
             }
           },
-          "title1": "COMPONENT VS FEATURE TEAMS<br><i style=\"font-weight: normal;\">by Rowan Bunning</i>",
+          "title1": "COMPONENT VS FEATURE TEAMS<br><i style=\"font-weight: normal;\"><a href=\"crew.html#msg-box4-2k\">by Rowan Bunning</a></i>",
           "caption1": "Is it really worth transitioning from Component to Feature teams? How much of a difference does it make? Find out in this Lego experiment.",
           "button1": "<a data-app-btn=\"true\" href=\"https://mobirise.com\" class=\"mbr-buttons__btn btn btn-wrap btn-xs-lg btn-default\">LEARN MORE</a>",
           "media2": {
@@ -524,7 +524,7 @@
               "size": 0
             }
           },
-          "title3": "PAIR PROGRAMMING WITH A PEN<br><i style=\"font-weight: normal;\">by Stuart Bargon</i>",
+          "title3": "PAIR PROGRAMMING WITH A PEN<br><i style=\"font-weight: normal;\"><a href=\"crew.html#msg-box4-29\">by Stuart Bargon</a></i>",
           "caption3": "Pair programming has been around for many years but still few people have experienced it. Two people working together can generate more valuable work of greater quality than they can working separately. Gain some insights into this way of working by trying it yourself. We are going to experience this way of working just by using a pen. We will do a simple exercise and then discuss our experiences.",
           "button3": "<a data-app-btn=\"true\" href=\"https://mobirise.com\" class=\"mbr-buttons__btn btn btn-wrap btn-xs-lg btn-default\">LEARN MORE</a>",
           "media4": {
@@ -642,7 +642,7 @@
               "size": 0
             }
           },
-          "title1": "MICRO:BIT SCALING CHALLENGE<br><i style=\"font-weight: normal;\">by Dave Bales &amp; Mike Li</i>",
+          "title1": "MICRO:BIT SCALING CHALLENGE<br><i style=\"font-weight: normal;\"><a href=\"crew.html#msg-box4-2n\">by Dave Bales &amp; Mike Li</a></i>",
           "caption1": "For non-programmers programming hardware, work together to produce a single product<br>Experience how to scale with multiple teams in this practical workshop that programs Microbits with an easy to use tool, which enables even non-programmers to be awesome<br>",
           "button1": "<a data-app-btn=\"true\" href=\"https://mobirise.com\" class=\"mbr-buttons__btn btn btn-wrap btn-xs-lg btn-default\">LEARN MORE</a>",
           "media2": {
@@ -682,7 +682,7 @@
               "size": 0
             }
           },
-          "title3": "BEYOND AGILE WITH DESIGN THINKING<br><span style=\"font-weight: normal;\"><i>by PaloIT</i></span>",
+          "title3": "BEYOND AGILE WITH DESIGN THINKING<br><span style=\"font-weight: normal;\"><i><a href=\"sponsors.html#msg-box5-2o\">by PaloIT</a></i></span>",
           "caption3": "In this interactive session, you will learn how leading organizations go beyond<br>the implementation of agile as a means to improve their innovation capabilities<br>and are building innovation-driven cultures that are playful, collaborative and<br>highly energizing.",
           "button3": "<a data-app-btn=\"true\" href=\"https://mobirise.com\" class=\"mbr-buttons__btn btn btn-wrap btn-xs-lg btn-default\">LEARN MORE</a>",
           "media4": {
@@ -1158,7 +1158,7 @@
           "title": "THINK BIG AND MAKE IT HAPPEN",
           "meta": "By John Smith posted July 30, 2015",
           "text": "<p>Positively impact the world by empowering organizations and leaders to harness the power of transformative technology for the greater good.</p><p>We gather and coordinate the best talents to deliver our customers’ digital innovation and transformation projects.</p>",
-          "button": "<a data-app-btn=\"true\" class=\"mbr-buttons__btn btn btn-lg btn-default\" href=\"https://mobirise.com\" data-toolbar=\"-mbrBtnMove\">LEARN MORE</a>",
+          "button": "<a data-app-btn=\"true\" class=\"mbr-buttons__btn btn btn-lg btn-default\" href=\"https://mobirise.com\" data-toolbar=\"-mbrBtnMove\" target=\"_blank\">LEARN MORE</a>",
           "_tags": [
             "Theme"
           ],
