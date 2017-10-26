@@ -100,9 +100,6 @@
 
 
 
-
-
-
 #menu-14 .mbr-brand__name {
   font-size: 16px;
 }
@@ -163,23 +160,6 @@
 #msg-box3-17 .btn {
   font-size: 16px;
 }
-#content5-1k .mbr-header .mbr-header__text {
-  text-align: center;
-  color: #fff;
-  font-family: 'Montserrat', sans-serif;
-  font-size: 30px;
-}
-#content5-1k .mbr-header .mbr-header__subtext {
-  text-align: center;
-  color: #fff;
-}
-#content5-1k .mbr-article {
-  color: #fff;
-}
-#content5-1k .mbr-article P {
-  font-family: 'Montserrat', sans-serif;
-  text-align: center;
-}
 #msg-box5-2o .mbr-header__text {
   color: #ffffff;
 }
@@ -204,14 +184,22 @@
 #msg-box4-2t .mbr-article P {
   color: #3c3c3c;
 }
-#features1-1n P {
+#content5-1k .mbr-header .mbr-header__text {
+  text-align: center;
+  color: #fff;
   font-family: 'Montserrat', sans-serif;
+  font-size: 30px;
 }
-#features1-1n .mbr-section__col .mbr-header__text {
-  font-family: 'Montserrat', sans-serif;
+#content5-1k .mbr-header .mbr-header__subtext {
+  text-align: center;
+  color: #fff;
 }
-#features1-1n .mbr-section-title .mbr-header__text {
+#content5-1k .mbr-article {
+  color: #fff;
+}
+#content5-1k .mbr-article P {
   font-family: 'Montserrat', sans-serif;
+  text-align: center;
 }
 #image2-1c SMALL {
   font-family: 'Montserrat', sans-serif;
