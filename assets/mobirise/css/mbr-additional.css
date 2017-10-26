@@ -538,6 +538,18 @@
 #msg-box4-2r .mbr-article {
   color: #ffffff;
 }
+#msg-box4-2s .mbr-header__text {
+  color: #3c3c3c;
+}
+#msg-box4-2s .mbr-header__subtext {
+  color: #3c3c3c;
+}
+#msg-box4-2s .mbr-article {
+  color: #ffffff;
+}
+#msg-box4-2s .mbr-article P {
+  color: #7c706b;
+}
 #social-buttons2-2d .mbr-header__text {
   color: #c1c1c1;
 }

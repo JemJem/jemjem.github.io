@@ -1,7 +1,7 @@
 {
   "settings": {
     "name": "Agile Tour Syd",
-    "currentPage": "sponsors.html",
+    "currentPage": "workshops.html",
     "theme": {
       "name": "default",
       "title": "Mobirise",
@@ -11,7 +11,7 @@
       ]
     },
     "versionFirst": "4.2.4",
-    "uniqCompNum": 100,
+    "uniqCompNum": 101,
     "versionPublish": "4.3.4",
     "favicon": "@PROJECT_PATH@/assets/images/mbr-favicon-74x74-1.png",
     "noImageResize": "",
@@ -504,8 +504,8 @@
               "size": 0
             }
           },
-          "title2": "ALL FOR ONE &amp; ONE FOR ALL<br><i style=\"font-weight: normal;\">by <a href=\"crew.html#msg-box4-2q\">Martyn Frank</a> &amp; <a href=\"crew.html#msg-box4-2r\">Alidad Hamadi</a></i>",
-          "caption2": "Have you ever been part of an amazing team? <br>How frustrated do you get that you haven’t had that experience again?  <br>Would it be great if your team would pull their weight, and your mangers wouldn’t interfere? <br><br>How could fix your team and your managers?<br><br>Come join our workshop to find out how you can create that experience again?<br>",
+          "title2": "BOLLYWOOD DANCE &amp; HIGH PERFORMING TEAMS<br><i style=\"font-weight: normal;\">by <a href=\"crew.html#msg-box4-2q\">Martyn Frank</a>,&nbsp;<a href=\"crew.html#msg-box4-2r\">Alidad Hamadi</a>, <a href=\"crew.html#msg-box4-2s\">Aman Singh</a></i>",
+          "caption2": "This workshop is an organic journey for people to understand the key 'things' that are required for building a high performing team. People learn about \"common objective\" value of time, value of collaboration, value of practice, value of repetition, value of sharing, value of leadership, value of following, observation, value of pressure and value of accomplishment, value of team and value of being in an uncomfortable zone.<br>",
           "button2": "<a data-app-btn=\"true\" href=\"https://mobirise.com\" class=\"mbr-buttons__btn btn btn-wrap btn-xs-lg btn-default\">LEARN MORE</a>",
           "media3": {
             "image": {
@@ -3307,6 +3307,77 @@
           "button": "<a data-app-btn=\"true\" class=\"mbr-buttons__btn btn btn-lg btn-default\" href=\"https://www.linkedin.com/in/alidadhamidi/\" data-toolbar=\"-mbrBtnMove\" target=\"_blank\">LEARN MORE</a>",
           "_name": "msg-box4",
           "_anchor": "msg-box4-2r"
+        },
+        {
+          "_inherit": "msg-box5",
+          "_params": {
+            "showTitle": true,
+            "showMeta": true,
+            "showText": true,
+            "showButtons": true,
+            "inverse": false,
+            "imageSize": 50,
+            "paddingTop": 3,
+            "paddingBottom": 3,
+            "bgImageRadio": false,
+            "bgImage": "images/bg3.jpg",
+            "parallax": true,
+            "bgColorRadio": true,
+            "bgColor": "#ffffff",
+            "bgVideoRadio": false,
+            "bgVideo": {
+              "url": "http://www.youtube.com/watch?v=uNCr7NdOJgw"
+            },
+            "overlay": false,
+            "overlayColor": "#222",
+            "overlayOpacity": 0.5
+          },
+          "media": {
+            "image": {
+              "active": true,
+              "class": "mbr-figure__img",
+              "width": 1400,
+              "src": "@PROJECT_PATH@/assets/images/aman-450x450.jpg",
+              "link": "",
+              "alt": "",
+              "title": ""
+            },
+            "video": {
+              "src": "http://www.youtube.com/embed/sOSTC6FM6Bw",
+              "aspectratio": "16:9",
+              "autoplay": false,
+              "loop": false
+            },
+            "iconFont": {
+              "class": "mbr-iconfont mbr-iconfont-msg-box4",
+              "link": "",
+              "size": 0
+            }
+          },
+          "title": "Bollywood dance &amp; high performing teams",
+          "text": "<p>A passionate individual who is all about common sense and simplicity. I like the word 'tangible' as it reflects that everything has an outcome or output that is either felt, seen or can be touched. Treating people like they want to be treated is my main motive in order to build meaningful and lasting relationships.</p>",
+          "_tags": [
+            "Theme"
+          ],
+          "_styles": {
+            ".mbr-header__text": {
+              "color": "#3c3c3c"
+            },
+            ".mbr-header__subtext": {
+              "color": "#3c3c3c"
+            },
+            ".mbr-article": {
+              "color": "#ffffff"
+            },
+            ".mbr-article P": {
+              "color": "#7c706b"
+            }
+          },
+          "headerAlign": "left",
+          "meta": "By Aman Singh",
+          "button": "<a data-app-btn=\"true\" class=\"mbr-buttons__btn btn btn-lg btn-primary\" href=\"https://www.linkedin.com/in/amansingh84/\" data-toolbar=\"-mbrBtnMove\" target=\"_blank\">LEARN MORE</a>",
+          "_name": "msg-box4",
+          "_anchor": "msg-box4-2s"
         },
         {
           "_params": {
