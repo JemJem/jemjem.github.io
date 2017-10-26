@@ -192,6 +192,18 @@
 #msg-box5-2o .mbr-article P {
   font-size: 20px;
 }
+#msg-box4-2t .mbr-header__text {
+  color: #3c3c3c;
+}
+#msg-box4-2t .mbr-header__subtext {
+  color: #3c3c3c;
+}
+#msg-box4-2t .mbr-article {
+  color: #ffffff;
+}
+#msg-box4-2t .mbr-article P {
+  color: #3c3c3c;
+}
 #features1-1n P {
   font-family: 'Montserrat', sans-serif;
 }

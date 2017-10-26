@@ -1,7 +1,7 @@
 {
   "settings": {
     "name": "Agile Tour Syd",
-    "currentPage": "workshops.html",
+    "currentPage": "sponsors.html",
     "theme": {
       "name": "default",
       "title": "Mobirise",
@@ -11,7 +11,7 @@
       ]
     },
     "versionFirst": "4.2.4",
-    "uniqCompNum": 101,
+    "uniqCompNum": 102,
     "versionPublish": "4.3.4",
     "favicon": "@PROJECT_PATH@/assets/images/mbr-favicon-74x74-1.png",
     "noImageResize": "",
@@ -1164,6 +1164,77 @@
           ],
           "_name": "msg-box5",
           "_anchor": "msg-box5-2o"
+        },
+        {
+          "_inherit": "msg-box5",
+          "_params": {
+            "showTitle": true,
+            "showMeta": false,
+            "showText": true,
+            "showButtons": true,
+            "inverse": true,
+            "imageSize": 50,
+            "paddingTop": 3,
+            "paddingBottom": 3,
+            "bgImageRadio": false,
+            "bgImage": "images/bg3.jpg",
+            "parallax": true,
+            "bgColorRadio": true,
+            "bgColor": "#ffffff",
+            "bgVideoRadio": false,
+            "bgVideo": {
+              "url": "http://www.youtube.com/watch?v=uNCr7NdOJgw"
+            },
+            "overlay": false,
+            "overlayColor": "#222",
+            "overlayOpacity": 0.5
+          },
+          "media": {
+            "image": {
+              "active": true,
+              "class": "mbr-figure__img",
+              "width": 1400,
+              "src": "@PROJECT_PATH@/assets/images/logo-prometix-300x51.png",
+              "link": "",
+              "alt": "",
+              "title": ""
+            },
+            "video": {
+              "src": "http://www.youtube.com/embed/sOSTC6FM6Bw",
+              "aspectratio": "16:9",
+              "autoplay": false,
+              "loop": false
+            },
+            "iconFont": {
+              "class": "mbr-iconfont mbr-iconfont-msg-box4",
+              "link": "",
+              "size": 0
+            }
+          },
+          "title": "UNDERSTAND YOUR NEED FOR CHANGE<br>",
+          "text": "<p>Prometix designs implements and supports solutions based on Microsoft Technologies that help our client’s staff to more easily use and share information as individuals and in teams. This allows people to perform their jobs more efficiently to reduce operational costs and risk, improve productivity and increase competitiveness.</p><p>Our business is about combining our technical and creative skills and blending these perfectly to deliver compelling business tools and digital experiences for all users.</p>",
+          "_tags": [
+            "Theme"
+          ],
+          "_styles": {
+            ".mbr-header__text": {
+              "color": "#3c3c3c"
+            },
+            ".mbr-header__subtext": {
+              "color": "#3c3c3c"
+            },
+            ".mbr-article": {
+              "color": "#ffffff"
+            },
+            ".mbr-article P": {
+              "color": "#3c3c3c"
+            }
+          },
+          "headerAlign": "left",
+          "meta": "By Craig Smith,&nbsp;Agile practitioner for over 10 years.<br>He has coached on a number of high profile technical and business projects. He regularly conducts Agile training and has presented at a number of Australian and international conferences. He is also an Agile Editor for InfoQ and co-hosts an Agile podcast called The Agile Revolution.<br>",
+          "button": "<a data-app-btn=\"true\" class=\"mbr-buttons__btn btn btn-lg btn-link\" href=\"http://www.prometix.com.au/\" data-toolbar=\"-mbrBtnMove\" target=\"_blank\">LEARN MORE</a>",
+          "_name": "msg-box4",
+          "_anchor": "msg-box4-2t"
         },
         {
           "_params": {
@@ -3269,7 +3340,7 @@
               "active": true,
               "class": "mbr-figure__img",
               "width": 1400,
-              "src": "@PROJECT_PATH@/assets/images/alidad-200x200.jpg",
+              "src": "@PROJECT_PATH@/assets/images/alidad-750x1000.jpg",
               "link": "",
               "alt": "",
               "title": ""
