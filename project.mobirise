@@ -1,7 +1,7 @@
 {
   "settings": {
     "name": "Agile Tour Syd",
-    "currentPage": "sponsors.html",
+    "currentPage": "workshops.html",
     "theme": {
       "name": "default",
       "title": "Mobirise",
@@ -289,7 +289,7 @@
         },
         {
           "_params": {
-            "showHeader": false,
+            "showHeader": true,
             "showSubheader": false,
             "showImages": false,
             "showTitles": true,
@@ -312,7 +312,7 @@
             "overlayOpacity": 0.5
           },
           "headerAlign": "left",
-          "header": "2017<br>Millesime",
+          "header": "Early Sessions",
           "subheader": "By John Smith posted July 30, 2015",
           "media1": {
             "image": {
@@ -331,8 +331,8 @@
               "size": 0
             }
           },
-          "title1": "COACHING NIGHTMARE<br><i style=\"font-weight: normal;\"><a href=\"crew.html#msg-box4-2j\">by Craig Smith</a></i>",
-          "caption1": "When you look for inspiration in the Agile coaching community, the name Gordon Ramsay is probably not the first name to come to mind.<br><br>He has been known to be belligerent, condescending and downright rude, but underneath this brute facade is a treasure trove of skills and talents that influence change.<br>",
+          "title1": "COMPONENT VS FEATURE TEAMS<div><span style=\"font-weight: normal;\"><i>by <a href=\"crew.html#msg-box4-2k\">Rowan Bunning</a></i></span></div>",
+          "caption1": "Is it really worth transitioning from Component to Feature teams? How much of a difference does it make? Find out in this Lego experiment.<br>",
           "button1": "<a data-app-btn=\"true\" href=\"https://mobirise.com\" class=\"mbr-buttons__btn btn btn-wrap btn-xs-lg btn-default\" data-toolbar=\"-mbrBtnMove\">LEARN MORE</a>",
           "media2": {
             "image": {
@@ -442,165 +442,7 @@
         },
         {
           "_params": {
-            "showHeader": false,
-            "showSubheader": false,
-            "showImages": false,
-            "showTitles": true,
-            "showCaptions": true,
-            "showButtons": false,
-            "paddingTop": 3,
-            "paddingBottom": 3,
-            "columns": "3",
-            "bgImageRadio": false,
-            "bgImage": "images/bg3.jpg",
-            "parallax": true,
-            "bgColorRadio": true,
-            "bgColor": "#fac51c",
-            "bgVideoRadio": false,
-            "bgVideo": {
-              "url": "http://www.youtube.com/watch?v=uNCr7NdOJgw"
-            },
-            "overlay": false,
-            "overlayColor": "#222",
-            "overlayOpacity": 0.5
-          },
-          "headerAlign": "left",
-          "header": "DROP-DEAD EASY WEBSITE MAKER",
-          "subheader": "By John Smith posted July 30, 2015",
-          "media1": {
-            "image": {
-              "active": true,
-              "src": "images/bootstrap.png",
-              "class": "mbr-figure__img",
-              "width": 600
-            },
-            "video": {
-              "class": "mbr-figure__img",
-              "src": "http://www.youtube.com/embed/sOSTC6FM6Bw"
-            },
-            "iconFont": {
-              "class": "mbr-iconfont mbr-iconfont-features1",
-              "link": "",
-              "size": 0
-            }
-          },
-          "title1": "COMPONENT VS FEATURE TEAMS<br><i style=\"font-weight: normal;\"><a href=\"crew.html#msg-box4-2k\">by Rowan Bunning</a></i>",
-          "caption1": "Is it really worth transitioning from Component to Feature teams? How much of a difference does it make? Find out in this Lego experiment.",
-          "button1": "<a data-app-btn=\"true\" href=\"https://mobirise.com\" class=\"mbr-buttons__btn btn btn-wrap btn-xs-lg btn-default\">LEARN MORE</a>",
-          "media2": {
-            "image": {
-              "active": true,
-              "src": "images/responsive.png",
-              "class": "mbr-figure__img",
-              "width": 600
-            },
-            "video": {
-              "class": "mbr-figure__img",
-              "src": "http://www.youtube.com/embed/sOSTC6FM6Bw"
-            },
-            "iconFont": {
-              "class": "mbr-iconfont mbr-iconfont-features1",
-              "link": "",
-              "size": 0
-            }
-          },
-          "title2": "BOLLYWOOD DANCE &amp; HIGH PERFORMING TEAMS<br><i style=\"font-weight: normal;\">by <a href=\"crew.html#msg-box4-2q\">Martyn Frank</a>,&nbsp;<a href=\"crew.html#msg-box4-2r\">Alidad Hamadi</a>, <a href=\"crew.html#msg-box4-2s\">Aman Singh</a></i>",
-          "caption2": "This workshop is an organic journey for people to understand the key 'things' that are required for building a high performing team. People learn about \"common objective\" value of time, value of collaboration, value of practice, value of repetition, value of sharing, value of leadership, value of following, observation, value of pressure and value of accomplishment, value of team and value of being in an uncomfortable zone.<br>",
-          "button2": "<a data-app-btn=\"true\" href=\"https://mobirise.com\" class=\"mbr-buttons__btn btn btn-wrap btn-xs-lg btn-default\">LEARN MORE</a>",
-          "media3": {
-            "image": {
-              "active": true,
-              "src": "images/google-fonts.png",
-              "class": "mbr-figure__img",
-              "width": 600
-            },
-            "video": {
-              "class": "mbr-figure__img",
-              "src": "http://www.youtube.com/embed/sOSTC6FM6Bw"
-            },
-            "iconFont": {
-              "class": "mbr-iconfont mbr-iconfont-features1",
-              "link": "",
-              "size": 0
-            }
-          },
-          "title3": "PAIR PROGRAMMING WITH A PEN<br><i style=\"font-weight: normal;\"><a href=\"crew.html#msg-box4-29\">by Stuart Bargon</a></i>",
-          "caption3": "Pair programming has been around for many years but still few people have experienced it. Two people working together can generate more valuable work of greater quality than they can working separately. Gain some insights into this way of working by trying it yourself. We are going to experience this way of working just by using a pen. We will do a simple exercise and then discuss our experiences.",
-          "button3": "<a data-app-btn=\"true\" href=\"https://mobirise.com\" class=\"mbr-buttons__btn btn btn-wrap btn-xs-lg btn-default\">LEARN MORE</a>",
-          "media4": {
-            "image": {
-              "active": true,
-              "src": "images/unlimited-websites.png",
-              "class": "mbr-figure__img",
-              "width": 600
-            },
-            "video": {
-              "class": "mbr-figure__img",
-              "src": "http://www.youtube.com/embed/sOSTC6FM6Bw"
-            },
-            "iconFont": {
-              "class": "mbr-iconfont mbr-iconfont-features1",
-              "link": "",
-              "size": 0
-            }
-          },
-          "title4": "UNLIMITED WEBSITES",
-          "caption4": "Mobirise gives you the freedom to develop as many websites as you like given the fact that it is a desktop app.",
-          "button4": "<a data-app-btn=\"true\" href=\"https://mobirise.com\" class=\"mbr-buttons__btn btn btn-wrap btn-xs-lg btn-default\">LEARN MORE</a>",
-          "media5": {
-            "image": {
-              "active": true,
-              "src": "images/blocks.png",
-              "class": "mbr-figure__img",
-              "width": 600
-            },
-            "video": {
-              "class": "mbr-figure__img",
-              "src": "http://www.youtube.com/embed/sOSTC6FM6Bw"
-            },
-            "iconFont": {
-              "class": "mbr-iconfont mbr-iconfont-features1",
-              "link": "",
-              "size": 0
-            }
-          },
-          "title5": "TRENDY WEBSITE BLOCKS",
-          "caption5": "Choose from the large selection of latest pre-made blocks - jumbotrons, hero images, parallax scrolling, video backgrounds, hamburger menu, sticky header and more.",
-          "button5": "<a data-app-btn=\"true\" href=\"https://mobirise.com\" class=\"mbr-buttons__btn btn btn-wrap btn-xs-lg btn-default\">LEARN MORE</a>",
-          "media6": {
-            "image": {
-              "active": true,
-              "src": "images/host.png",
-              "class": "mbr-figure__img",
-              "width": 600
-            },
-            "video": {
-              "class": "mbr-figure__img",
-              "src": "http://www.youtube.com/embed/sOSTC6FM6Bw"
-            },
-            "iconFont": {
-              "class": "mbr-iconfont mbr-iconfont-features1",
-              "link": "",
-              "size": 0
-            }
-          },
-          "title6": "HOST ANYWHERE",
-          "caption6": "Publish your website to a local drive, FTP or host on Amazon S3, Google Drive, Github. Don't limit yourself to just one platform or service provider.",
-          "button6": "<a data-app-btn=\"true\" href=\"https://mobirise.com\" class=\"mbr-buttons__btn btn btn-wrap btn-xs-lg btn-default\">LEARN MORE</a>",
-          "_tags": [
-            "Theme"
-          ],
-          "_name": "features1",
-          "_anchor": "features1-2h",
-          "_styles": {
-            "P": {
-              "color": "#ffffff"
-            }
-          }
-        },
-        {
-          "_params": {
-            "showHeader": false,
+            "showHeader": true,
             "showSubheader": false,
             "showImages": false,
             "showTitles": true,
@@ -623,7 +465,7 @@
             "overlayOpacity": 0.5
           },
           "headerAlign": "left",
-          "header": "DROP-DEAD EASY WEBSITE MAKER",
+          "header": "Morning Sessions",
           "subheader": "By John Smith posted July 30, 2015",
           "media1": {
             "image": {
@@ -642,8 +484,8 @@
               "size": 0
             }
           },
-          "title1": "MICRO:BIT SCALING CHALLENGE<br><i style=\"font-weight: normal;\"><a href=\"crew.html#msg-box4-2n\">by Dave Bales &amp; Mike Li</a></i>",
-          "caption1": "For non-programmers programming hardware, work together to produce a single product<br>Experience how to scale with multiple teams in this practical workshop that programs Microbits with an easy to use tool, which enables even non-programmers to be awesome<br>",
+          "title1": "COACHING NIGHTMARE<div><span style=\"font-weight: normal;\"><i>by <a href=\"crew.html#msg-box4-2j\">Craig Smith</a></i></span></div>",
+          "caption1": "When you look for inspiration in the Agile coaching community, the name Gordon Ramsay is probably not the first name to come to mind.<br><br>He has been known to be belligerent, condescending and downright rude, but underneath this brute facade is a treasure trove of skills and talents that influence change.<br>",
           "button1": "<a data-app-btn=\"true\" href=\"https://mobirise.com\" class=\"mbr-buttons__btn btn btn-wrap btn-xs-lg btn-default\">LEARN MORE</a>",
           "media2": {
             "image": {
@@ -750,6 +592,164 @@
           ],
           "_name": "features1",
           "_anchor": "features1-2g",
+          "_styles": {
+            "P": {
+              "color": "#ffffff"
+            }
+          }
+        },
+        {
+          "_params": {
+            "showHeader": true,
+            "showSubheader": false,
+            "showImages": false,
+            "showTitles": true,
+            "showCaptions": true,
+            "showButtons": false,
+            "paddingTop": 3,
+            "paddingBottom": 3,
+            "columns": "3",
+            "bgImageRadio": false,
+            "bgImage": "images/bg3.jpg",
+            "parallax": true,
+            "bgColorRadio": true,
+            "bgColor": "#fac51c",
+            "bgVideoRadio": false,
+            "bgVideo": {
+              "url": "http://www.youtube.com/watch?v=uNCr7NdOJgw"
+            },
+            "overlay": false,
+            "overlayColor": "#222",
+            "overlayOpacity": 0.5
+          },
+          "headerAlign": "left",
+          "header": "Afternoon Sessions",
+          "subheader": "By John Smith posted July 30, 2015",
+          "media1": {
+            "image": {
+              "active": true,
+              "src": "images/bootstrap.png",
+              "class": "mbr-figure__img",
+              "width": 600
+            },
+            "video": {
+              "class": "mbr-figure__img",
+              "src": "http://www.youtube.com/embed/sOSTC6FM6Bw"
+            },
+            "iconFont": {
+              "class": "mbr-iconfont mbr-iconfont-features1",
+              "link": "",
+              "size": 0
+            }
+          },
+          "title1": "<div>MICRO:BIT CHALLENGE</div><div><span style=\"font-weight: normal;\"><i>by <a href=\"crew.html#msg-box4-2n\">Dave Bales &amp; Mike Li</a></i></span></div>",
+          "caption1": "For non-programmers programming hardware, work together to produce a single product<br>Experience how to scale with multiple teams in this practical workshop that programs Microbits with an easy to use tool, which enables even non-programmers to be awesome<br>",
+          "button1": "<a data-app-btn=\"true\" href=\"https://mobirise.com\" class=\"mbr-buttons__btn btn btn-wrap btn-xs-lg btn-default\">LEARN MORE</a>",
+          "media2": {
+            "image": {
+              "active": true,
+              "src": "images/responsive.png",
+              "class": "mbr-figure__img",
+              "width": 600
+            },
+            "video": {
+              "class": "mbr-figure__img",
+              "src": "http://www.youtube.com/embed/sOSTC6FM6Bw"
+            },
+            "iconFont": {
+              "class": "mbr-iconfont mbr-iconfont-features1",
+              "link": "",
+              "size": 0
+            }
+          },
+          "title2": "BOLLYWOOD DANCE &amp; HIGH PERFORMING TEAMS<br><i style=\"font-weight: normal;\">by <a href=\"crew.html#msg-box4-2q\">Martyn Frank</a>,&nbsp;<a href=\"crew.html#msg-box4-2r\">Alidad Hamadi</a>, <a href=\"crew.html#msg-box4-2s\">Aman Singh</a></i>",
+          "caption2": "This workshop is an organic journey for people to understand the key 'things' that are required for building a high performing team. People learn about \"common objective\" value of time, value of collaboration, value of practice, value of repetition, value of sharing, value of leadership, value of following, observation, value of pressure and value of accomplishment, value of team and value of being in an uncomfortable zone.<br>",
+          "button2": "<a data-app-btn=\"true\" href=\"https://mobirise.com\" class=\"mbr-buttons__btn btn btn-wrap btn-xs-lg btn-default\">LEARN MORE</a>",
+          "media3": {
+            "image": {
+              "active": true,
+              "src": "images/google-fonts.png",
+              "class": "mbr-figure__img",
+              "width": 600
+            },
+            "video": {
+              "class": "mbr-figure__img",
+              "src": "http://www.youtube.com/embed/sOSTC6FM6Bw"
+            },
+            "iconFont": {
+              "class": "mbr-iconfont mbr-iconfont-features1",
+              "link": "",
+              "size": 0
+            }
+          },
+          "title3": "PAIR PROGRAMMING WITH A PEN<br><i style=\"font-weight: normal;\"><a href=\"crew.html#msg-box4-29\">by Stuart Bargon</a></i>",
+          "caption3": "Pair programming has been around for many years but still few people have experienced it. Two people working together can generate more valuable work of greater quality than they can working separately. Gain some insights into this way of working by trying it yourself. We are going to experience this way of working just by using a pen. We will do a simple exercise and then discuss our experiences.",
+          "button3": "<a data-app-btn=\"true\" href=\"https://mobirise.com\" class=\"mbr-buttons__btn btn btn-wrap btn-xs-lg btn-default\">LEARN MORE</a>",
+          "media4": {
+            "image": {
+              "active": true,
+              "src": "images/unlimited-websites.png",
+              "class": "mbr-figure__img",
+              "width": 600
+            },
+            "video": {
+              "class": "mbr-figure__img",
+              "src": "http://www.youtube.com/embed/sOSTC6FM6Bw"
+            },
+            "iconFont": {
+              "class": "mbr-iconfont mbr-iconfont-features1",
+              "link": "",
+              "size": 0
+            }
+          },
+          "title4": "UNLIMITED WEBSITES",
+          "caption4": "Mobirise gives you the freedom to develop as many websites as you like given the fact that it is a desktop app.",
+          "button4": "<a data-app-btn=\"true\" href=\"https://mobirise.com\" class=\"mbr-buttons__btn btn btn-wrap btn-xs-lg btn-default\">LEARN MORE</a>",
+          "media5": {
+            "image": {
+              "active": true,
+              "src": "images/blocks.png",
+              "class": "mbr-figure__img",
+              "width": 600
+            },
+            "video": {
+              "class": "mbr-figure__img",
+              "src": "http://www.youtube.com/embed/sOSTC6FM6Bw"
+            },
+            "iconFont": {
+              "class": "mbr-iconfont mbr-iconfont-features1",
+              "link": "",
+              "size": 0
+            }
+          },
+          "title5": "TRENDY WEBSITE BLOCKS",
+          "caption5": "Choose from the large selection of latest pre-made blocks - jumbotrons, hero images, parallax scrolling, video backgrounds, hamburger menu, sticky header and more.",
+          "button5": "<a data-app-btn=\"true\" href=\"https://mobirise.com\" class=\"mbr-buttons__btn btn btn-wrap btn-xs-lg btn-default\">LEARN MORE</a>",
+          "media6": {
+            "image": {
+              "active": true,
+              "src": "images/host.png",
+              "class": "mbr-figure__img",
+              "width": 600
+            },
+            "video": {
+              "class": "mbr-figure__img",
+              "src": "http://www.youtube.com/embed/sOSTC6FM6Bw"
+            },
+            "iconFont": {
+              "class": "mbr-iconfont mbr-iconfont-features1",
+              "link": "",
+              "size": 0
+            }
+          },
+          "title6": "HOST ANYWHERE",
+          "caption6": "Publish your website to a local drive, FTP or host on Amazon S3, Google Drive, Github. Don't limit yourself to just one platform or service provider.",
+          "button6": "<a data-app-btn=\"true\" href=\"https://mobirise.com\" class=\"mbr-buttons__btn btn btn-wrap btn-xs-lg btn-default\">LEARN MORE</a>",
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "features1",
+          "_anchor": "features1-2h",
           "_styles": {
             "P": {
               "color": "#ffffff"
