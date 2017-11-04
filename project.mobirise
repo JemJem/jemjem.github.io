@@ -1,7 +1,7 @@
 {
   "settings": {
     "name": "Agile Tour Syd",
-    "currentPage": "crew.html",
+    "currentPage": "workshops.html",
     "theme": {
       "name": "default",
       "title": "Mobirise",
@@ -351,7 +351,7 @@
               "size": 0
             }
           },
-          "title2": "I'M SORRY (YOU'RE WELCOME)<br><i style=\"font-weight: normal;\"><a href=\"crew.html#msg-box4-2i\">by Michale Mallete</a></i>",
+          "title2": "I'M SORRY (YOU'RE WELCOME)<br><i style=\"font-weight: normal;\"><a href=\"crew.html#msg-box4-2i\">by Mike Mallete</a></i>",
           "caption2": "We Agile Coaches, Advocates, and Practitioners, have a hand in the current state of agility in Australia, for better or worse. It is time for us, as a community, to own and lead the industry towards the next level.<br><br>During the workshop, we shall get a good grasp on current state of Agile implementation from the community’s perspective and how to progress from that.<br>Our goal is to have something valuable to bring back to the organisations we are working with/for.",
           "button2": "<a data-app-btn=\"true\" href=\"https://mobirise.com\" class=\"mbr-buttons__btn btn btn-wrap btn-xs-lg btn-default\">LEARN MORE</a>",
           "media3": {
