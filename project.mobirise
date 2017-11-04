@@ -1,7 +1,7 @@
 {
   "settings": {
     "name": "Agile Tour Syd",
-    "currentPage": "workshops.html",
+    "currentPage": "crew.html",
     "theme": {
       "name": "default",
       "title": "Mobirise",
@@ -372,7 +372,7 @@
             }
           },
           "title3": "TRAGEDY OF THE PMO<br><span style=\"font-weight: normal;\"><i><a href=\"crew.html#msg-box4-2l\">by Peter Merel</a></i></span>",
-          "caption3": "A simple card game explains why PMOs generate technical debt, and what to do about that.<br>",
+          "caption3": "Game theory proves PMOs don’t work. But what’s the Agile alternative?<br><br>In this session we simulate PMO as a poker game where everyone loses their shirts. We show how PMO suffers \"N-Party Iterated Prisoners’ Dilemma\" that generates a \"Tragedy of the Commons” in the form of ever-growing technical debt.<br><br>We’ll try a Lean variation that only makes matters worse! Finally we’ll change the game to solve these problems using Goldratt’s throughput accounting and Stack’s open-book management.<br>",
           "button3": "<a data-app-btn=\"true\" href=\"https://mobirise.com\" class=\"mbr-buttons__btn btn btn-wrap btn-xs-lg btn-default\">LEARN MORE</a>",
           "media4": {
             "image": {
@@ -2904,7 +2904,7 @@
             }
           },
           "title": "Tragedy of the PMO",
-          "text": "<p>CTO at XSCALE Alliance and Author of The Agile Tao</p><p>Author of the Agile Tao, founder of XSCALE Alliance</p><p>I have three decades in delivery programs for manufacturing, banking, mobile/social, cloud, telco and big data products. Leading roles on the $9B CBA Mobile Channel “Kaching”, Invensys \"I/A Systems SCADA” which controls a third of the world’s oil infrastructure, and Telstra’s OMP grid which controlled its international telco network for 2 decades. Author of patents in scheduling, e-currency, pattern recognition and social ratings, led multiple startups and open source projects including the first Wikipedia wiki engine.</p>",
+          "text": "<p>Peter Merel is Australia’s longest serving Agilist and played a part in the formation of the Agile Alliance.</p><p>Credited in Beck’s first XP book, Peter ran the first Agile games at the first Agile conference in 2000. He has led agile transformations at GMAC and Websense in the US, and IAG, CBA and Ray White in Australia. In 2014 Peter founded XSCALE Alliance as “the Linux of the Agile world”.</p><p>Gartner has recognised Peter and XSCALE in its 2016 and 2017 market guides to Enterprise Agile Frameworks, and XSCALE coaches in eight world capitals are delivering open-content training including breadth-first product management, high performance delivery, and exponential business agility.</p>",
           "_tags": [
             "Theme"
           ],
