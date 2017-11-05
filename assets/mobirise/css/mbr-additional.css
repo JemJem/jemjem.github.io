@@ -550,6 +550,15 @@
 #msg-box4-2s .mbr-article P {
   color: #7c706b;
 }
+#msg-box4-2u .mbr-header__text {
+  color: #ffffff;
+}
+#msg-box4-2u .mbr-header__subtext {
+  color: #ffffff;
+}
+#msg-box4-2u .mbr-article {
+  color: #ffffff;
+}
 #social-buttons2-2d .mbr-header__text {
   color: #c1c1c1;
 }

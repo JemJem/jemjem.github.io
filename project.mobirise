@@ -1,7 +1,7 @@
 {
   "settings": {
     "name": "Agile Tour Syd",
-    "currentPage": "workshops.html",
+    "currentPage": "crew.html",
     "theme": {
       "name": "default",
       "title": "Mobirise",
@@ -11,7 +11,7 @@
       ]
     },
     "versionFirst": "4.2.4",
-    "uniqCompNum": 102,
+    "uniqCompNum": 103,
     "versionPublish": "4.3.4",
     "favicon": "@PROJECT_PATH@/assets/images/mbr-favicon-74x74-1.png",
     "noImageResize": "",
@@ -3270,6 +3270,74 @@
           "button": "<a data-app-btn=\"true\" class=\"mbr-buttons__btn btn btn-lg btn-primary\" href=\"https://www.linkedin.com/in/amansingh84/\" data-toolbar=\"-mbrBtnMove\" target=\"_blank\">LEARN MORE</a>",
           "_name": "msg-box4",
           "_anchor": "msg-box4-2s"
+        },
+        {
+          "_inherit": "msg-box5",
+          "_params": {
+            "showTitle": true,
+            "showMeta": true,
+            "showText": true,
+            "showButtons": true,
+            "inverse": true,
+            "imageSize": 50,
+            "paddingTop": 3,
+            "paddingBottom": 3,
+            "bgImageRadio": false,
+            "bgImage": "images/bg3.jpg",
+            "parallax": true,
+            "bgColorRadio": true,
+            "bgColor": "#f97352",
+            "bgVideoRadio": false,
+            "bgVideo": {
+              "url": "http://www.youtube.com/watch?v=uNCr7NdOJgw"
+            },
+            "overlay": false,
+            "overlayColor": "#222",
+            "overlayOpacity": 0.5
+          },
+          "media": {
+            "image": {
+              "active": true,
+              "class": "mbr-figure__img",
+              "width": 1400,
+              "src": "@PROJECT_PATH@/assets/images/profilephotopaloit-662x663.png",
+              "link": "",
+              "alt": "",
+              "title": ""
+            },
+            "video": {
+              "src": "http://www.youtube.com/embed/sOSTC6FM6Bw",
+              "aspectratio": "16:9",
+              "autoplay": false,
+              "loop": false
+            },
+            "iconFont": {
+              "class": "mbr-iconfont mbr-iconfont-msg-box4",
+              "link": "",
+              "size": 0
+            }
+          },
+          "title": "Beyond Agile",
+          "text": "<p>As an Enterprise Agile coach, Sylvain has worked with both established companies and startups across diverse industries, ranging from banking and telecommunications, to government agencies. He has trained, coached and mentored over 1,000 people from every level of the corporate ladder. By helping organizations grow an agile mindset, his clients become more innovative, quicker to respond to change, and are better able to attract and retain talent. Taking a non dogmatic approach, Sylvain focuses on culture and models new behaviors that foster trust, learning, safety and collaboration in order to achieve high performance.</p><p>Sylvain is also highly involved in the Agile community and brought the Agile Tour to Singapore. He is regularly invited to be a speaker at Agile and Innovation events.</p><p>Ultimately Sylvain sees himself as a catalyst for change, and his aim is to empower everyone he works with, be it organizations or individuals, to find fulfillment and joy in both work and life.</p>",
+          "_tags": [
+            "Theme"
+          ],
+          "_styles": {
+            ".mbr-header__text": {
+              "color": "#ffffff"
+            },
+            ".mbr-header__subtext": {
+              "color": "#ffffff"
+            },
+            ".mbr-article": {
+              "color": "#ffffff"
+            }
+          },
+          "headerAlign": "left",
+          "meta": "By&nbsp;Sylvain Mahe",
+          "button": "<a data-app-btn=\"true\" class=\"mbr-buttons__btn btn btn-lg btn-default\" href=\"https://mobirise.com\" data-toolbar=\"-mbrBtnMove\">LEARN MORE</a>",
+          "_name": "msg-box4",
+          "_anchor": "msg-box4-2u"
         },
         {
           "_params": {
