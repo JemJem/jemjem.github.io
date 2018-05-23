@@ -2,7 +2,11 @@
   "settings": {
     "name": "Agile Tour 2018",
 <<<<<<< HEAD
+<<<<<<< HEAD
     "currentPage": "index.html",
+=======
+    "currentPage": "tour-guides.html",
+>>>>>>> 83abc3e5b8b67bd6fc10e6f5b6e6924e285af37c
 =======
     "currentPage": "tour-guides.html",
 >>>>>>> 83abc3e5b8b67bd6fc10e6f5b6e6924e285af37c
@@ -44,7 +48,11 @@
     "siteUrl": "undefined",
     "versionFirst": "4.7.1",
 <<<<<<< HEAD
+<<<<<<< HEAD
     "uniqCompNum": 43,
+=======
+    "uniqCompNum": 49,
+>>>>>>> 83abc3e5b8b67bd6fc10e6f5b6e6924e285af37c
 =======
     "uniqCompNum": 49,
 >>>>>>> 83abc3e5b8b67bd6fc10e6f5b6e6924e285af37c
