@@ -1,7 +1,7 @@
 {
   "settings": {
     "name": "Agile Tour Sydney 2018",
-    "currentPage": "tickets.html",
+    "currentPage": "tourguide.html",
     "theme": {
       "name": "mobirise4",
       "title": "Mobirise 4",
@@ -53,11 +53,7 @@
         "name": "Poppins",
         "url": "https://fonts.googleapis.com/css?family=Poppins:100,100i,200,200i,300,300i,400,400i,500,500i,600,600i,700,700i,800,800i,900,900i"
       }
-    ],
-    "publishType": "local",
-    "publishPath": "file:///Users/jeremiebenazra/Documents/GitHub/jemjem.github.io",
-    "gitHubName": "jemjem",
-    "gitHubPath": "AgileTourSyd"
+    ]
   },
   "pages": {
     "index.html": {
