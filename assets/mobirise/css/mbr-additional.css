@@ -3062,7 +3062,7 @@ body {
 .cid-qTpp1rNmM7 {
   padding-top: 90px;
   padding-bottom: 90px;
-  background-color: #cccccc;
+  background-image: url("../../../assets/images/markus-spiske-666905-unsplash-2000x1333.jpg");
 }
 .cid-qTpp1rNmM7 .mbr-section-subtitle {
   color: #767676;
@@ -3095,6 +3095,9 @@ body {
 }
 .cid-qTpp1rNmM7 .team-item .item-caption {
   background: #efefef;
+}
+.cid-qTpp1rNmM7 H2 {
+  color: #efefef;
 }
 .cid-qPhZvpn6Kr {
   padding-top: 30px;
