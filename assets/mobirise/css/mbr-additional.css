@@ -1647,26 +1647,26 @@ body {
   flex-direction: column;
   -webkit-flex-direction: column;
 }
-.cid-qYCU8LlNel {
+.cid-r81Fpk636Y {
   padding-top: 90px;
   padding-bottom: 90px;
   background-color: #c1c1c1;
 }
-.cid-qYCU8LlNel .mbr-section-subtitle {
+.cid-r81Fpk636Y .mbr-section-subtitle {
   color: #767676;
   text-align: center;
   font-weight: 300;
 }
-.cid-qYCU8LlNel .timeline-text-content {
+.cid-r81Fpk636Y .timeline-text-content {
   padding: 2rem 2.5rem;
   background: #e7e7e7;
   margin-right: 2rem;
   transition: all .4s;
 }
-.cid-qYCU8LlNel .timeline-text-content p {
+.cid-r81Fpk636Y .timeline-text-content p {
   margin-bottom: 0;
 }
-.cid-qYCU8LlNel .timeline-element {
+.cid-r81Fpk636Y .timeline-element {
   margin-bottom: 50px;
   position: relative;
   word-wrap: break-word;
@@ -1675,19 +1675,19 @@ body {
   flex-direction: row;
   -webkit-flex-direction: row;
 }
-.cid-qYCU8LlNel .timeline-element:hover .timeline-text-content {
+.cid-r81Fpk636Y .timeline-element:hover .timeline-text-content {
   box-shadow: 0 7px 20px 0px rgba(0, 0, 0, 0.08);
   transition: all .4s;
 }
-.cid-qYCU8LlNel .reverse {
+.cid-r81Fpk636Y .reverse {
   flex-direction: row-reverse;
   -webkit-flex-direction: row-reverse;
 }
-.cid-qYCU8LlNel .reverse .timeline-text-content {
+.cid-r81Fpk636Y .reverse .timeline-text-content {
   margin-left: 2rem;
   margin-right: 0;
 }
-.cid-qYCU8LlNel .iconsBackground {
+.cid-r81Fpk636Y .iconsBackground {
   position: absolute;
   left: 50%;
   width: 60px;
@@ -1700,7 +1700,7 @@ body {
   top: 20px;
   margin-left: -30px;
 }
-.cid-qYCU8LlNel .mbr-iconfont {
+.cid-r81Fpk636Y .mbr-iconfont {
   position: absolute;
   text-align: center;
   font-size: 35px;
@@ -1709,7 +1709,7 @@ body {
   top: 13px;
   left: 13px;
 }
-.cid-qYCU8LlNel .separline:before {
+.cid-r81Fpk636Y .separline:before {
   top: 20px;
   bottom: 0;
   position: absolute;
@@ -1720,17 +1720,17 @@ body {
   height: calc(100% + 4rem);
 }
 @media (max-width: 768px) {
-  .cid-qYCU8LlNel .iconsBackground {
+  .cid-r81Fpk636Y .iconsBackground {
     left: 1.5rem;
   }
-  .cid-qYCU8LlNel .separline:before {
+  .cid-r81Fpk636Y .separline:before {
     left: calc(1.5rem - 1px);
   }
-  .cid-qYCU8LlNel .timeline-text-content {
+  .cid-r81Fpk636Y .timeline-text-content {
     margin-left: 3rem !important;
     margin-right: 0 !important;
   }
-  .cid-qYCU8LlNel .reverse .timeline-text-content {
+  .cid-r81Fpk636Y .reverse .timeline-text-content {
     margin-right: 0 !important;
   }
 }
