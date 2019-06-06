@@ -257,25 +257,15 @@
   height: 15px;
   margin: 3px;
   background: #1b1b1b;
-  border: 0;
   opacity: .5; }
 
 .carousel-indicators .active {
-  border: 4px solid #1b1b1b;
   background: #fff; }
 
 .carousel-indicators li {
   max-width: 15px;
   max-height: 15px;
-  margin: 3px;
-  background: #1b1b1b;
-  border: 0;
-  border-radius: 50%;
-  opacity: .5; }
-
-.carousel-indicators li.active {
-  border: 4px solid #1b1b1b;
-  background: #fff; }
+  border-radius: 50%; }
 
 .container .carousel-indicators {
   margin-bottom: 3px; }
@@ -291,15 +281,14 @@
     padding-right: 2.5rem; } }
 .mbr-slider .carousel-indicators .active,
 .mbr-slider .carousel-indicators li {
-  width: 20px;
-  height: 20px;
+  width: 7px;
+  height: 7px;
   margin: 3px;
   background: #1b1b1b;
-  border: 0;
+  border: 4px solid #1b1b1b;
   opacity: .5; }
 
 .mbr-slider .carousel-indicators .active {
-  border: 4px solid #1b1b1b;
   background: #fff; }
 
 @media (max-width: 767px) {
