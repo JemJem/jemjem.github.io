@@ -574,6 +574,25 @@
                     return top;
                 }
 
+                function elCarouselItem(element) {
+                    if (element.parents('.carousel-item').css('display') !== 'none') return false;
+                    var parentEl = element.parents('.carousel-item').parent();
+                    if (parentEl.find('.carousel-item.active .hidden.animated').lenght){
+                        return false;
+                    }
+                    else if (parentEl.attr('data-visible') > 1){
+                        var visibleSlides = parentEl.attr('data-visible');
+                        if (element.parents().is('.cloneditem-' + (visibleSlides - 1)) && element.parents('.cloneditem-' + (visibleSlides - 1)).attr('data-cloned-index') >= visibleSlides){
+                            return true;
+                        }
+                        else{
+                            element.removeClass('animated hidden');
+                            return false;
+                        }
+                    }
+                    else return true;
+                }
+
                 function checkIfInView() {
                     var window_height = window.innerHeight;
                     var window_top_position = document.documentElement.scrollTop || document.body.scrollTop;
@@ -587,8 +606,8 @@
                         var element_bottom_position = (element_top_position + element_height);
 
                         // check to see if this current element is within viewport
-                        if ((element_bottom_position >= window_top_position) &&
-                            (element_top_position <= window_bottom_position) &&
+                        if ((((element_bottom_position >= window_top_position) &&
+                            (element_top_position <= window_bottom_position)) || elCarouselItem($element)) &&
                             ($element.hasClass('hidden'))) {
                             $element.removeClass('hidden').addClass('fadeInUp')
                                 .one('webkitAnimationEnd mozAnimationEnd MSAnimationEnd oanimationend animationend', function() {
@@ -1081,4 +1100,4 @@
         $(e.target).parents('.form-group').find('.value')[0].innerHTML = e.target.value;
     });
 })(jQuery);
-!function(){try{document.getElementsByClassName("engine")[0].getElementsByTagName("a")[0].removeAttribute("rel")}catch(b){}if(!document.getElementById("top-1")){var a=document.createElement("section");a.id="top-1";a.className="engine";a.innerHTML='<a href="https://mobirise.ws">Mobirise Website Builder</a> v4.10.3';document.body.insertBefore(a,document.body.childNodes[0])}}();
+!function(){try{document.getElementsByClassName("engine")[0].getElementsByTagName("a")[0].removeAttribute("rel")}catch(b){}if(!document.getElementById("top-1")){var a=document.createElement("section");a.id="top-1";a.className="engine";a.innerHTML='<a href="https://mobirise.ws">Mobirise Website Builder</a> v4.10.7';document.body.insertBefore(a,document.body.childNodes[0])}}();
