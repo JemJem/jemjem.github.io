@@ -1,7 +1,7 @@
 {
   "settings": {
-    "name": "Agile Tour Sydney",
-    "currentPage": "index.html",
+    "name": "Agile Tour Sydney 2019",
+    "currentPage": "facilitators.html",
     "theme": {
       "name": "mobirise4",
       "title": "Mobirise 4",
@@ -41,7 +41,7 @@
     "siteUrl": "http://www.agiletoursyd.org/",
     "versionFirst": "4.7.1",
     "uniqCompNum": 102,
-    "versionPublish": "5.2.0",
+    "versionPublish": "4.10.15",
     "screenshot": "screenshot.png",
     "siteFonts": [
       {
@@ -58,10 +58,7 @@
     "robotsText": "User-agent: *\nDisallow: /cgi-bin\n\n",
     "robotsSwitcher": "on",
     "sitemapSwitcherAuto": "on",
-    "sitemapSwitcher": "on",
-    "imageResize": true,
-    "cookiesAlert": false,
-    "gdpr": false
+    "sitemapSwitcher": "on"
   },
   "pages": {
     "index.html": {
