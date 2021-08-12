@@ -1,7 +1,7 @@
 {
   "settings": {
     "name": "Agile Tour Sydney",
-    "currentPage": "workshops.html",
+    "currentPage": "index.html",
     "theme": {
       "name": "mobirise4",
       "title": "Mobirise 4",
@@ -41,7 +41,7 @@
     "siteUrl": "http://www.agiletoursyd.org/",
     "versionFirst": "4.7.1",
     "uniqCompNum": 102,
-    "versionPublish": "5.3.10",
+    "versionPublish": "5.2.0",
     "screenshot": "screenshot.png",
     "siteFonts": [
       {
