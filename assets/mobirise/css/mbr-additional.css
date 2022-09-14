@@ -2687,6 +2687,46 @@ section.lazy-placeholder:after {
 .cid-sOdXoHHlbz .dropdown-item:hover {
   color: #c1c1c1 !important;
 }
+.cid-qYD7RAy6HK {
+  padding-top: 120px;
+  padding-bottom: 120px;
+  background-image: url("../../../assets/images/markus-spiske-666905-unsplash-2000x1333.jpg");
+}
+.cid-qYD7RAy6HK .mbr-section-subtitle {
+  color: #767676;
+}
+.cid-qYD7RAy6HK .media-row {
+  display: flex;
+  justify-content: center;
+}
+.cid-qYD7RAy6HK .team-item {
+  transition: all .2s;
+  margin-bottom: 2rem;
+}
+.cid-qYD7RAy6HK .team-item .item-image img {
+  width: 100%;
+}
+.cid-qYD7RAy6HK .team-item .item-name p {
+  margin-bottom: 0;
+}
+.cid-qYD7RAy6HK .team-item .item-role p {
+  margin-bottom: 0;
+}
+.cid-qYD7RAy6HK .team-item .item-social {
+  display: flex;
+  flex-wrap: wrap;
+  justify-content: center;
+}
+.cid-qYD7RAy6HK .team-item .item-social .socicon {
+  color: #232323;
+  font-size: 17px;
+}
+.cid-qYD7RAy6HK .team-item .item-caption {
+  background: #efefef;
+}
+.cid-qYD7RAy6HK H2 {
+  color: #ffffff;
+}
 .cid-qTpp1rNmM7 {
   padding-top: 120px;
   padding-bottom: 120px;
@@ -2726,43 +2766,6 @@ section.lazy-placeholder:after {
 }
 .cid-qTpp1rNmM7 H2 {
   color: #efefef;
-}
-.cid-qYD7RAy6HK {
-  padding-top: 120px;
-  padding-bottom: 120px;
-  background-image: url("../../../assets/images/markus-spiske-666905-unsplash-2000x1333.jpg");
-}
-.cid-qYD7RAy6HK .mbr-section-subtitle {
-  color: #767676;
-}
-.cid-qYD7RAy6HK .media-row {
-  display: flex;
-  justify-content: center;
-}
-.cid-qYD7RAy6HK .team-item {
-  transition: all .2s;
-  margin-bottom: 2rem;
-}
-.cid-qYD7RAy6HK .team-item .item-image img {
-  width: 100%;
-}
-.cid-qYD7RAy6HK .team-item .item-name p {
-  margin-bottom: 0;
-}
-.cid-qYD7RAy6HK .team-item .item-role p {
-  margin-bottom: 0;
-}
-.cid-qYD7RAy6HK .team-item .item-social {
-  display: flex;
-  flex-wrap: wrap;
-  justify-content: center;
-}
-.cid-qYD7RAy6HK .team-item .item-social .socicon {
-  color: #232323;
-  font-size: 17px;
-}
-.cid-qYD7RAy6HK .team-item .item-caption {
-  background: #efefef;
 }
 .cid-r7PudFSGdA {
   padding-top: 90px;
