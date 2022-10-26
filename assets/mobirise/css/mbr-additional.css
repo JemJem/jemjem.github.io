@@ -1200,6 +1200,28 @@ section.lazy-placeholder:after {
     margin-right: 0 !important;
   }
 }
+.cid-tll1abI82b {
+  padding-top: 60px;
+  padding-bottom: 60px;
+  background: #ffffff;
+  background: linear-gradient(0deg, #0f7699, #ffffff);
+}
+.cid-tll1abI82b .image-block {
+  margin: auto;
+}
+.cid-tll1abI82b figcaption {
+  position: relative;
+}
+.cid-tll1abI82b figcaption div {
+  position: absolute;
+  bottom: 0;
+  width: 100%;
+}
+@media (max-width: 768px) {
+  .cid-tll1abI82b .image-block {
+    width: 100% !important;
+  }
+}
 .cid-qYCWlPm97H {
   padding-top: 60px;
   padding-bottom: 60px;
