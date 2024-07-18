@@ -1098,20 +1098,38 @@ section.lazy-placeholder:after {
     width: 100% !important;
   }
 }
-.cid-rCiYkVYiEf {
-  padding-top: 135px;
-  padding-bottom: 135px;
-  background-image: url("../../../assets/images/aaron-burden-urxoswglc44-unsplash-2000x1502.webp");
+.cid-uiQVWOexVB {
+  padding-top: 9rem;
+  padding-bottom: 9rem;
+  background-image: url("../../../assets/images/mbr-1920x1280.webp");
 }
-.cid-rCiYkVYiEf P {
-  color: #767676;
+.cid-uiQVWOexVB .mbr-fallback-image.disabled {
+  display: none;
 }
-.cid-rCiYkVYiEf .mbr-text,
-.cid-rCiYkVYiEf .mbr-section-btn {
-  color: #efefef;
+.cid-uiQVWOexVB .mbr-fallback-image {
+  display: block;
+  background-size: cover;
+  background-position: center center;
+  width: 100%;
+  height: 100%;
+  position: absolute;
+  top: 0;
 }
-.cid-rCiYkVYiEf H1 {
+.cid-uiQVWOexVB .mbr-text,
+.cid-uiQVWOexVB .mbr-section-btn {
   color: #232323;
+}
+.cid-uiQVWOexVB .card-title,
+.cid-uiQVWOexVB .card-box {
+  color: #353535;
+}
+.cid-uiQVWOexVB .mbr-text,
+.cid-uiQVWOexVB .link-wrap {
+  color: #ffffff;
+}
+.cid-uiQVWOexVB .card-box .mbr-text,
+.cid-uiQVWOexVB .mbr-section-btn {
+  color: #fafafa;
 }
 .cid-tm5WoILMKc {
   padding-top: 90px;
